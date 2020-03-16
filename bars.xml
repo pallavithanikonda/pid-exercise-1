@@ -1,5 +1,5 @@
 <products>
-	<DHZNZBAR  SN="ufUVpxw">
+	<bar SN="ufUVpxw">
 		<fett>19.57</fett>
 		<energy>2148.68</energy>
 		<kolhydrat>2.41</kolhydrat>
@@ -19,10 +19,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DHZNZBAR>
+	</bar>
 
 
-	<ORMQABAR  SN="Fv075VW">
+	<bar SN="Fv075VW">
 		<fett>25.16</fett>
 		<energy>1500.43</energy>
 		<kolhydrat>24.76</kolhydrat>
@@ -42,10 +42,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ORMQABAR>
+	</bar>
 
 
-	<PITVCBAR  SN="GzUbtXE">
+	<bar SN="GzUbtXE">
 		<fett>28.86</fett>
 		<energy>1955.29</energy>
 		<kolhydrat>34.8</kolhydrat>
@@ -69,10 +69,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</PITVCBAR>
+	</bar>
 
 
-	<EJXBBBAR  SN="LRTfoA1">
+	<bar SN="LRTfoA1">
 		<fett>6.39</fett>
 		<energy>1654.54</energy>
 		<kolhydrat>40.04</kolhydrat>
@@ -96,10 +96,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</EJXBBBAR>
+	</bar>
 
 
-	<WGZBNBAR  SN="D5LIsMr">
+	<bar SN="D5LIsMr">
 		<fett>2.39</fett>
 		<energy>1541.59</energy>
 		<kolhydrat>3.28</kolhydrat>
@@ -107,10 +107,10 @@
 		<fiber>15.42</fiber>
 		<review>
 		</review>
-	</WGZBNBAR>
+	</bar>
 
 
-	<RBJCYBAR  SN="M8Lfd2j">
+	<bar SN="M8Lfd2j">
 		<fett>18.71</fett>
 		<energy>2702.79</energy>
 		<kolhydrat>27.66</kolhydrat>
@@ -130,10 +130,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</RBJCYBAR>
+	</bar>
 
 
-	<WRTJKBAR  SN="A1xGXxZ">
+	<bar SN="A1xGXxZ">
 		<fett>27.83</fett>
 		<energy>2016.59</energy>
 		<kolhydrat>10.6</kolhydrat>
@@ -161,10 +161,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</WRTJKBAR>
+	</bar>
 
 
-	<HYAZNBAR  SN="tyzVlOm">
+	<bar SN="tyzVlOm">
 		<fett>2.87</fett>
 		<energy>1129.36</energy>
 		<kolhydrat>14.7</kolhydrat>
@@ -172,10 +172,10 @@
 		<fiber>24.02</fiber>
 		<review>
 		</review>
-	</HYAZNBAR>
+	</bar>
 
 
-	<PTCDZBAR  SN="ZUCTezv">
+	<bar SN="ZUCTezv">
 		<fett>41.94</fett>
 		<energy>2650.44</energy>
 		<kolhydrat>12.82</kolhydrat>
@@ -203,10 +203,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PTCDZBAR>
+	</bar>
 
 
-	<RAYJTBAR  SN="MHWGDDS">
+	<bar SN="MHWGDDS">
 		<fett>21.79</fett>
 		<energy>2020.18</energy>
 		<kolhydrat>28.72</kolhydrat>
@@ -230,10 +230,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</RAYJTBAR>
+	</bar>
 
 
-	<XZYDGBAR  SN="vl3Qsw8">
+	<bar SN="vl3Qsw8">
 		<fett>40.22</fett>
 		<energy>2429.08</energy>
 		<kolhydrat>17.94</kolhydrat>
@@ -257,10 +257,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</XZYDGBAR>
+	</bar>
 
 
-	<BRCTEBAR  SN="JhTxnDH">
+	<bar SN="JhTxnDH">
 		<fett>16.28</fett>
 		<energy>1239.21</energy>
 		<kolhydrat>7.7</kolhydrat>
@@ -276,10 +276,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</BRCTEBAR>
+	</bar>
 
 
-	<DLLDXBAR  SN="xrN1HeE">
+	<bar SN="xrN1HeE">
 		<fett>9.21</fett>
 		<energy>1041.39</energy>
 		<kolhydrat>22.71</kolhydrat>
@@ -299,10 +299,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DLLDXBAR>
+	</bar>
 
 
-	<QVYYUBAR  SN="QakCwNh">
+	<bar SN="QakCwNh">
 		<fett>24.49</fett>
 		<energy>1835.99</energy>
 		<kolhydrat>43.24</kolhydrat>
@@ -326,10 +326,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</QVYYUBAR>
+	</bar>
 
 
-	<XTDRGBAR  SN="L5IErzh">
+	<bar SN="L5IErzh">
 		<fett>43.38</fett>
 		<energy>1551.18</energy>
 		<kolhydrat>26.18</kolhydrat>
@@ -349,10 +349,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</XTDRGBAR>
+	</bar>
 
 
-	<FZMVDBAR  SN="BgsfM3g">
+	<bar SN="BgsfM3g">
 		<fett>19.47</fett>
 		<energy>1879.48</energy>
 		<kolhydrat>43.59</kolhydrat>
@@ -360,10 +360,10 @@
 		<fiber>37.14</fiber>
 		<review>
 		</review>
-	</FZMVDBAR>
+	</bar>
 
 
-	<VANVNBAR  SN="VjWlBic">
+	<bar SN="VjWlBic">
 		<fett>27.31</fett>
 		<energy>2614.08</energy>
 		<kolhydrat>12.53</kolhydrat>
@@ -379,10 +379,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</VANVNBAR>
+	</bar>
 
 
-	<HEEDEBAR  SN="iMiZ39I">
+	<bar SN="iMiZ39I">
 		<fett>26.19</fett>
 		<energy>1029.7</energy>
 		<kolhydrat>17.39</kolhydrat>
@@ -394,10 +394,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HEEDEBAR>
+	</bar>
 
 
-	<HTKRRBAR  SN="viS60cA">
+	<bar SN="viS60cA">
 		<fett>18.79</fett>
 		<energy>1297.35</energy>
 		<kolhydrat>1.27</kolhydrat>
@@ -425,10 +425,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</HTKRRBAR>
+	</bar>
 
 
-	<UKHZOBAR  SN="p18GujY">
+	<bar SN="p18GujY">
 		<fett>2.41</fett>
 		<energy>2525.59</energy>
 		<kolhydrat>29.06</kolhydrat>
@@ -440,10 +440,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</UKHZOBAR>
+	</bar>
 
 
-	<VERJABAR  SN="pZnpXKd">
+	<bar SN="pZnpXKd">
 		<fett>14.3</fett>
 		<energy>2140.27</energy>
 		<kolhydrat>3.71</kolhydrat>
@@ -463,10 +463,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</VERJABAR>
+	</bar>
 
 
-	<PMDLJBAR  SN="eDXItku">
+	<bar SN="eDXItku">
 		<fett>38.58</fett>
 		<energy>1452.02</energy>
 		<kolhydrat>3.99</kolhydrat>
@@ -486,10 +486,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PMDLJBAR>
+	</bar>
 
 
-	<TYTKCBAR  SN="a8IMjjM">
+	<bar SN="a8IMjjM">
 		<fett>15.66</fett>
 		<energy>1096.38</energy>
 		<kolhydrat>30.77</kolhydrat>
@@ -509,10 +509,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</TYTKCBAR>
+	</bar>
 
 
-	<IQWUQBAR  SN="dkTV5Yw">
+	<bar SN="dkTV5Yw">
 		<fett>35.48</fett>
 		<energy>1273.91</energy>
 		<kolhydrat>14.46</kolhydrat>
@@ -528,10 +528,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</IQWUQBAR>
+	</bar>
 
 
-	<COTAABAR  SN="2u7kx4r">
+	<bar SN="2u7kx4r">
 		<fett>11.31</fett>
 		<energy>1727.85</energy>
 		<kolhydrat>30.25</kolhydrat>
@@ -547,10 +547,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</COTAABAR>
+	</bar>
 
 
-	<MUIQIBAR  SN="bDNCghf">
+	<bar SN="bDNCghf">
 		<fett>32.78</fett>
 		<energy>1738.79</energy>
 		<kolhydrat>23.99</kolhydrat>
@@ -566,10 +566,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MUIQIBAR>
+	</bar>
 
 
-	<QYPYQBAR  SN="9EqJDbL">
+	<bar SN="9EqJDbL">
 		<fett>19.9</fett>
 		<energy>2585.26</energy>
 		<kolhydrat>41.0</kolhydrat>
@@ -585,10 +585,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</QYPYQBAR>
+	</bar>
 
 
-	<VBVHBBAR  SN="Ih5i9Bn">
+	<bar SN="Ih5i9Bn">
 		<fett>5.01</fett>
 		<energy>2045.39</energy>
 		<kolhydrat>6.85</kolhydrat>
@@ -600,10 +600,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</VBVHBBAR>
+	</bar>
 
 
-	<JPBLMBAR  SN="f9NsWpQ">
+	<bar SN="f9NsWpQ">
 		<fett>33.92</fett>
 		<energy>2117.19</energy>
 		<kolhydrat>27.18</kolhydrat>
@@ -623,10 +623,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</JPBLMBAR>
+	</bar>
 
 
-	<NURMNBAR  SN="1qiIFXA">
+	<bar SN="1qiIFXA">
 		<fett>3.04</fett>
 		<energy>1109.57</energy>
 		<kolhydrat>5.73</kolhydrat>
@@ -650,10 +650,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</NURMNBAR>
+	</bar>
 
 
-	<OUONRBAR  SN="uQAKAHi">
+	<bar SN="uQAKAHi">
 		<fett>37.01</fett>
 		<energy>1008.88</energy>
 		<kolhydrat>2.35</kolhydrat>
@@ -669,10 +669,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</OUONRBAR>
+	</bar>
 
 
-	<EOIQNBAR  SN="20XAeK9">
+	<bar SN="20XAeK9">
 		<fett>33.07</fett>
 		<energy>1214.37</energy>
 		<kolhydrat>38.18</kolhydrat>
@@ -680,10 +680,10 @@
 		<fiber>35.26</fiber>
 		<review>
 		</review>
-	</EOIQNBAR>
+	</bar>
 
 
-	<FCDVBBAR  SN="GTaq6Ff">
+	<bar SN="GTaq6Ff">
 		<fett>37.65</fett>
 		<energy>1658.2</energy>
 		<kolhydrat>35.76</kolhydrat>
@@ -699,10 +699,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</FCDVBBAR>
+	</bar>
 
 
-	<HFYWPBAR  SN="4EVQpGP">
+	<bar SN="4EVQpGP">
 		<fett>19.27</fett>
 		<energy>2040.92</energy>
 		<kolhydrat>6.38</kolhydrat>
@@ -730,10 +730,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HFYWPBAR>
+	</bar>
 
 
-	<BBZQTBAR  SN="0Sva5qf">
+	<bar SN="0Sva5qf">
 		<fett>7.64</fett>
 		<energy>1873.29</energy>
 		<kolhydrat>37.53</kolhydrat>
@@ -741,10 +741,10 @@
 		<fiber>42.72</fiber>
 		<review>
 		</review>
-	</BBZQTBAR>
+	</bar>
 
 
-	<DYNORBAR  SN="hlO2Wep">
+	<bar SN="hlO2Wep">
 		<fett>33.16</fett>
 		<energy>2195.36</energy>
 		<kolhydrat>1.17</kolhydrat>
@@ -764,10 +764,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</DYNORBAR>
+	</bar>
 
 
-	<CPCWEBAR  SN="qcqyroD">
+	<bar SN="qcqyroD">
 		<fett>25.65</fett>
 		<energy>1474.0</energy>
 		<kolhydrat>26.3</kolhydrat>
@@ -795,10 +795,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</CPCWEBAR>
+	</bar>
 
 
-	<SSTXHBAR  SN="DyFOiIi">
+	<bar SN="DyFOiIi">
 		<fett>14.36</fett>
 		<energy>1280.48</energy>
 		<kolhydrat>3.27</kolhydrat>
@@ -810,10 +810,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</SSTXHBAR>
+	</bar>
 
 
-	<SMVOGBAR  SN="xEWZpSj">
+	<bar SN="xEWZpSj">
 		<fett>33.11</fett>
 		<energy>2437.05</energy>
 		<kolhydrat>8.87</kolhydrat>
@@ -821,10 +821,10 @@
 		<fiber>21.16</fiber>
 		<review>
 		</review>
-	</SMVOGBAR>
+	</bar>
 
 
-	<INMDDBAR  SN="l5IJxqN">
+	<bar SN="l5IJxqN">
 		<fett>3.76</fett>
 		<energy>1491.91</energy>
 		<kolhydrat>20.8</kolhydrat>
@@ -832,10 +832,10 @@
 		<fiber>22.94</fiber>
 		<review>
 		</review>
-	</INMDDBAR>
+	</bar>
 
 
-	<PDBZXBAR  SN="XHwRiYA">
+	<bar SN="XHwRiYA">
 		<fett>2.13</fett>
 		<energy>1856.1</energy>
 		<kolhydrat>6.17</kolhydrat>
@@ -851,10 +851,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PDBZXBAR>
+	</bar>
 
 
-	<NGYTGBAR  SN="q0xoVWb">
+	<bar SN="q0xoVWb">
 		<fett>16.51</fett>
 		<energy>1486.39</energy>
 		<kolhydrat>39.5</kolhydrat>
@@ -874,10 +874,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</NGYTGBAR>
+	</bar>
 
 
-	<MAEVRBAR  SN="etSM9vt">
+	<bar SN="etSM9vt">
 		<fett>24.26</fett>
 		<energy>1156.99</energy>
 		<kolhydrat>36.8</kolhydrat>
@@ -901,10 +901,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</MAEVRBAR>
+	</bar>
 
 
-	<EGHSOBAR  SN="Uy84KRK">
+	<bar SN="Uy84KRK">
 		<fett>32.24</fett>
 		<energy>2666.86</energy>
 		<kolhydrat>4.11</kolhydrat>
@@ -916,10 +916,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</EGHSOBAR>
+	</bar>
 
 
-	<LOKGQBAR  SN="pnW1Wb3">
+	<bar SN="pnW1Wb3">
 		<fett>2.05</fett>
 		<energy>1127.41</energy>
 		<kolhydrat>7.5</kolhydrat>
@@ -935,10 +935,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</LOKGQBAR>
+	</bar>
 
 
-	<FNIVCBAR  SN="5jFpQR0">
+	<bar SN="5jFpQR0">
 		<fett>9.88</fett>
 		<energy>1380.83</energy>
 		<kolhydrat>42.8</kolhydrat>
@@ -950,10 +950,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</FNIVCBAR>
+	</bar>
 
 
-	<LFXDZBAR  SN="UFlPYep">
+	<bar SN="UFlPYep">
 		<fett>35.09</fett>
 		<energy>2588.72</energy>
 		<kolhydrat>43.28</kolhydrat>
@@ -977,10 +977,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LFXDZBAR>
+	</bar>
 
 
-	<KTTEHBAR  SN="yxFdzCy">
+	<bar SN="yxFdzCy">
 		<fett>17.0</fett>
 		<energy>2121.24</energy>
 		<kolhydrat>17.9</kolhydrat>
@@ -992,10 +992,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</KTTEHBAR>
+	</bar>
 
 
-	<KFSMXBAR  SN="aqHiwnP">
+	<bar SN="aqHiwnP">
 		<fett>31.5</fett>
 		<energy>2732.14</energy>
 		<kolhydrat>28.0</kolhydrat>
@@ -1015,10 +1015,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</KFSMXBAR>
+	</bar>
 
 
-	<CZJVYBAR  SN="emlE0AL">
+	<bar SN="emlE0AL">
 		<fett>41.11</fett>
 		<energy>1294.88</energy>
 		<kolhydrat>17.44</kolhydrat>
@@ -1042,10 +1042,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</CZJVYBAR>
+	</bar>
 
 
-	<UWWDCBAR  SN="HqoTB8F">
+	<bar SN="HqoTB8F">
 		<fett>40.21</fett>
 		<energy>1289.61</energy>
 		<kolhydrat>34.95</kolhydrat>
@@ -1069,10 +1069,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</UWWDCBAR>
+	</bar>
 
 
-	<AJSIPBAR  SN="VAkTWbT">
+	<bar SN="VAkTWbT">
 		<fett>40.18</fett>
 		<energy>2918.41</energy>
 		<kolhydrat>18.39</kolhydrat>
@@ -1088,10 +1088,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</AJSIPBAR>
+	</bar>
 
 
-	<SXHACBAR  SN="CJSFW9O">
+	<bar SN="CJSFW9O">
 		<fett>8.04</fett>
 		<energy>1869.59</energy>
 		<kolhydrat>42.94</kolhydrat>
@@ -1119,10 +1119,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</SXHACBAR>
+	</bar>
 
 
-	<TRBTLBAR  SN="ABFQwNc">
+	<bar SN="ABFQwNc">
 		<fett>1.01</fett>
 		<energy>2704.07</energy>
 		<kolhydrat>30.16</kolhydrat>
@@ -1138,10 +1138,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</TRBTLBAR>
+	</bar>
 
 
-	<XRRLYBAR  SN="PrBMeOo">
+	<bar SN="PrBMeOo">
 		<fett>29.93</fett>
 		<energy>1188.88</energy>
 		<kolhydrat>5.54</kolhydrat>
@@ -1153,10 +1153,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</XRRLYBAR>
+	</bar>
 
 
-	<XNJYSBAR  SN="GJOdFH3">
+	<bar SN="GJOdFH3">
 		<fett>17.61</fett>
 		<energy>2560.88</energy>
 		<kolhydrat>29.77</kolhydrat>
@@ -1172,10 +1172,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</XNJYSBAR>
+	</bar>
 
 
-	<OEGUQBAR  SN="YnNq29A">
+	<bar SN="YnNq29A">
 		<fett>36.41</fett>
 		<energy>1000.33</energy>
 		<kolhydrat>1.19</kolhydrat>
@@ -1195,10 +1195,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</OEGUQBAR>
+	</bar>
 
 
-	<VLNMZBAR  SN="jchsEfg">
+	<bar SN="jchsEfg">
 		<fett>24.45</fett>
 		<energy>1508.36</energy>
 		<kolhydrat>35.11</kolhydrat>
@@ -1206,10 +1206,10 @@
 		<fiber>36.0</fiber>
 		<review>
 		</review>
-	</VLNMZBAR>
+	</bar>
 
 
-	<PEKSHBAR  SN="NIfCZBa">
+	<bar SN="NIfCZBa">
 		<fett>37.65</fett>
 		<energy>1493.07</energy>
 		<kolhydrat>15.18</kolhydrat>
@@ -1237,10 +1237,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</PEKSHBAR>
+	</bar>
 
 
-	<FVJITBAR  SN="JRpiq8c">
+	<bar SN="JRpiq8c">
 		<fett>6.82</fett>
 		<energy>1747.32</energy>
 		<kolhydrat>6.15</kolhydrat>
@@ -1252,10 +1252,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</FVJITBAR>
+	</bar>
 
 
-	<YLFIZBAR  SN="RZzhw4d">
+	<bar SN="RZzhw4d">
 		<fett>10.03</fett>
 		<energy>1165.63</energy>
 		<kolhydrat>40.13</kolhydrat>
@@ -1275,10 +1275,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</YLFIZBAR>
+	</bar>
 
 
-	<FVYNNBAR  SN="Wsiw93f">
+	<bar SN="Wsiw93f">
 		<fett>25.9</fett>
 		<energy>2597.68</energy>
 		<kolhydrat>5.29</kolhydrat>
@@ -1302,10 +1302,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</FVYNNBAR>
+	</bar>
 
 
-	<YGLIABAR  SN="CDoVQcX">
+	<bar SN="CDoVQcX">
 		<fett>44.49</fett>
 		<energy>2013.4</energy>
 		<kolhydrat>26.39</kolhydrat>
@@ -1317,10 +1317,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</YGLIABAR>
+	</bar>
 
 
-	<IUKHGBAR  SN="ku99BT5">
+	<bar SN="ku99BT5">
 		<fett>1.89</fett>
 		<energy>1161.7</energy>
 		<kolhydrat>30.49</kolhydrat>
@@ -1340,10 +1340,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</IUKHGBAR>
+	</bar>
 
 
-	<TZEBBBAR  SN="N6eoFPs">
+	<bar SN="N6eoFPs">
 		<fett>44.4</fett>
 		<energy>1244.35</energy>
 		<kolhydrat>3.6</kolhydrat>
@@ -1367,10 +1367,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</TZEBBBAR>
+	</bar>
 
 
-	<DUQWNBAR  SN="7obs6RB">
+	<bar SN="7obs6RB">
 		<fett>22.19</fett>
 		<energy>1142.16</energy>
 		<kolhydrat>40.55</kolhydrat>
@@ -1394,10 +1394,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</DUQWNBAR>
+	</bar>
 
 
-	<TSFTCBAR  SN="J4VRKh2">
+	<bar SN="J4VRKh2">
 		<fett>12.12</fett>
 		<energy>1308.09</energy>
 		<kolhydrat>18.03</kolhydrat>
@@ -1405,10 +1405,10 @@
 		<fiber>33.7</fiber>
 		<review>
 		</review>
-	</TSFTCBAR>
+	</bar>
 
 
-	<MGZQBBAR  SN="DHMpIUY">
+	<bar SN="DHMpIUY">
 		<fett>34.24</fett>
 		<energy>1281.01</energy>
 		<kolhydrat>19.05</kolhydrat>
@@ -1416,10 +1416,10 @@
 		<fiber>42.14</fiber>
 		<review>
 		</review>
-	</MGZQBBAR>
+	</bar>
 
 
-	<HYZIYBAR  SN="Jr8fKW2">
+	<bar SN="Jr8fKW2">
 		<fett>25.36</fett>
 		<energy>1798.21</energy>
 		<kolhydrat>34.8</kolhydrat>
@@ -1447,10 +1447,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</HYZIYBAR>
+	</bar>
 
 
-	<GANLRBAR  SN="kbe1c1y">
+	<bar SN="kbe1c1y">
 		<fett>15.76</fett>
 		<energy>1074.61</energy>
 		<kolhydrat>40.28</kolhydrat>
@@ -1474,10 +1474,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</GANLRBAR>
+	</bar>
 
 
-	<RYTNKBAR  SN="La8x0xx">
+	<bar SN="La8x0xx">
 		<fett>29.89</fett>
 		<energy>1875.77</energy>
 		<kolhydrat>24.41</kolhydrat>
@@ -1485,10 +1485,10 @@
 		<fiber>39.97</fiber>
 		<review>
 		</review>
-	</RYTNKBAR>
+	</bar>
 
 
-	<OOJANBAR  SN="qecpJA8">
+	<bar SN="qecpJA8">
 		<fett>2.14</fett>
 		<energy>2673.82</energy>
 		<kolhydrat>28.41</kolhydrat>
@@ -1508,10 +1508,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</OOJANBAR>
+	</bar>
 
 
-	<ZZUTPBAR  SN="zmREWZj">
+	<bar SN="zmREWZj">
 		<fett>37.85</fett>
 		<energy>1266.61</energy>
 		<kolhydrat>23.0</kolhydrat>
@@ -1531,10 +1531,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZZUTPBAR>
+	</bar>
 
 
-	<SUOAJBAR  SN="41yLN9g">
+	<bar SN="41yLN9g">
 		<fett>6.08</fett>
 		<energy>1637.81</energy>
 		<kolhydrat>4.11</kolhydrat>
@@ -1558,10 +1558,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SUOAJBAR>
+	</bar>
 
 
-	<DQVGRBAR  SN="kEawdmH">
+	<bar SN="kEawdmH">
 		<fett>9.71</fett>
 		<energy>1572.61</energy>
 		<kolhydrat>33.29</kolhydrat>
@@ -1577,10 +1577,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DQVGRBAR>
+	</bar>
 
 
-	<XCWBIBAR  SN="YPekXvM">
+	<bar SN="YPekXvM">
 		<fett>24.18</fett>
 		<energy>2989.72</energy>
 		<kolhydrat>33.09</kolhydrat>
@@ -1600,10 +1600,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</XCWBIBAR>
+	</bar>
 
 
-	<SFUDYBAR  SN="leTpZUP">
+	<bar SN="leTpZUP">
 		<fett>16.82</fett>
 		<energy>1979.56</energy>
 		<kolhydrat>12.04</kolhydrat>
@@ -1623,10 +1623,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</SFUDYBAR>
+	</bar>
 
 
-	<XQPYLBAR  SN="sCNqswW">
+	<bar SN="sCNqswW">
 		<fett>30.82</fett>
 		<energy>1450.12</energy>
 		<kolhydrat>31.08</kolhydrat>
@@ -1634,10 +1634,10 @@
 		<fiber>26.11</fiber>
 		<review>
 		</review>
-	</XQPYLBAR>
+	</bar>
 
 
-	<FLCTHBAR  SN="hUFBgah">
+	<bar SN="hUFBgah">
 		<fett>40.02</fett>
 		<energy>1469.46</energy>
 		<kolhydrat>42.45</kolhydrat>
@@ -1661,10 +1661,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</FLCTHBAR>
+	</bar>
 
 
-	<OOCUNBAR  SN="SYypUSP">
+	<bar SN="SYypUSP">
 		<fett>27.6</fett>
 		<energy>1965.21</energy>
 		<kolhydrat>2.94</kolhydrat>
@@ -1692,10 +1692,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</OOCUNBAR>
+	</bar>
 
 
-	<HIPYIBAR  SN="M3WqA8p">
+	<bar SN="M3WqA8p">
 		<fett>36.49</fett>
 		<energy>1332.43</energy>
 		<kolhydrat>3.65</kolhydrat>
@@ -1723,10 +1723,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</HIPYIBAR>
+	</bar>
 
 
-	<GVUCUBAR  SN="Yqe6oog">
+	<bar SN="Yqe6oog">
 		<fett>7.39</fett>
 		<energy>1008.31</energy>
 		<kolhydrat>19.06</kolhydrat>
@@ -1734,10 +1734,10 @@
 		<fiber>17.14</fiber>
 		<review>
 		</review>
-	</GVUCUBAR>
+	</bar>
 
 
-	<ZMMOTBAR  SN="rQoRH8G">
+	<bar SN="rQoRH8G">
 		<fett>31.61</fett>
 		<energy>1095.92</energy>
 		<kolhydrat>13.37</kolhydrat>
@@ -1757,10 +1757,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ZMMOTBAR>
+	</bar>
 
 
-	<SLSNQBAR  SN="6qxbPW3">
+	<bar SN="6qxbPW3">
 		<fett>28.38</fett>
 		<energy>1854.87</energy>
 		<kolhydrat>9.65</kolhydrat>
@@ -1788,10 +1788,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SLSNQBAR>
+	</bar>
 
 
-	<SYSNUBAR  SN="Wqh06H2">
+	<bar SN="Wqh06H2">
 		<fett>15.46</fett>
 		<energy>2759.08</energy>
 		<kolhydrat>11.84</kolhydrat>
@@ -1811,10 +1811,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</SYSNUBAR>
+	</bar>
 
 
-	<ADSPJBAR  SN="VI0DtTj">
+	<bar SN="VI0DtTj">
 		<fett>40.84</fett>
 		<energy>1206.71</energy>
 		<kolhydrat>31.52</kolhydrat>
@@ -1822,10 +1822,10 @@
 		<fiber>8.09</fiber>
 		<review>
 		</review>
-	</ADSPJBAR>
+	</bar>
 
 
-	<XMIURBAR  SN="BuBSUUL">
+	<bar SN="BuBSUUL">
 		<fett>23.63</fett>
 		<energy>1846.62</energy>
 		<kolhydrat>33.51</kolhydrat>
@@ -1849,10 +1849,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</XMIURBAR>
+	</bar>
 
 
-	<RTESXBAR  SN="13Kj8lf">
+	<bar SN="13Kj8lf">
 		<fett>18.1</fett>
 		<energy>1054.15</energy>
 		<kolhydrat>25.39</kolhydrat>
@@ -1860,10 +1860,10 @@
 		<fiber>32.42</fiber>
 		<review>
 		</review>
-	</RTESXBAR>
+	</bar>
 
 
-	<JSRTBBAR  SN="9bpidOk">
+	<bar SN="9bpidOk">
 		<fett>5.22</fett>
 		<energy>1914.54</energy>
 		<kolhydrat>44.89</kolhydrat>
@@ -1891,10 +1891,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JSRTBBAR>
+	</bar>
 
 
-	<GLHIUBAR  SN="aFzpzL9">
+	<bar SN="aFzpzL9">
 		<fett>10.63</fett>
 		<energy>2824.17</energy>
 		<kolhydrat>5.85</kolhydrat>
@@ -1910,10 +1910,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</GLHIUBAR>
+	</bar>
 
 
-	<QWYMKBAR  SN="DQz4Q6u">
+	<bar SN="DQz4Q6u">
 		<fett>31.76</fett>
 		<energy>1270.22</energy>
 		<kolhydrat>1.81</kolhydrat>
@@ -1925,10 +1925,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</QWYMKBAR>
+	</bar>
 
 
-	<ICGSABAR  SN="wAJ37WC">
+	<bar SN="wAJ37WC">
 		<fett>20.36</fett>
 		<energy>1448.95</energy>
 		<kolhydrat>35.78</kolhydrat>
@@ -1948,10 +1948,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</ICGSABAR>
+	</bar>
 
 
-	<VSLJIBAR  SN="d05J07B">
+	<bar SN="d05J07B">
 		<fett>9.39</fett>
 		<energy>2582.28</energy>
 		<kolhydrat>36.27</kolhydrat>
@@ -1967,10 +1967,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</VSLJIBAR>
+	</bar>
 
 
-	<OKQQVBAR  SN="HvJmaKC">
+	<bar SN="HvJmaKC">
 		<fett>26.88</fett>
 		<energy>2079.05</energy>
 		<kolhydrat>39.53</kolhydrat>
@@ -1982,10 +1982,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</OKQQVBAR>
+	</bar>
 
 
-	<WEZMIBAR  SN="S0VRugH">
+	<bar SN="S0VRugH">
 		<fett>14.78</fett>
 		<energy>2992.54</energy>
 		<kolhydrat>24.58</kolhydrat>
@@ -2013,10 +2013,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</WEZMIBAR>
+	</bar>
 
 
-	<ZYDBGBAR  SN="REpFMeB">
+	<bar SN="REpFMeB">
 		<fett>20.35</fett>
 		<energy>1656.45</energy>
 		<kolhydrat>14.76</kolhydrat>
@@ -2024,10 +2024,10 @@
 		<fiber>30.27</fiber>
 		<review>
 		</review>
-	</ZYDBGBAR>
+	</bar>
 
 
-	<FYVLPBAR  SN="mflW7lQ">
+	<bar SN="mflW7lQ">
 		<fett>32.45</fett>
 		<energy>2086.07</energy>
 		<kolhydrat>10.25</kolhydrat>
@@ -2043,10 +2043,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</FYVLPBAR>
+	</bar>
 
 
-	<UMCXUBAR  SN="F09yahI">
+	<bar SN="F09yahI">
 		<fett>33.03</fett>
 		<energy>1413.53</energy>
 		<kolhydrat>27.92</kolhydrat>
@@ -2074,10 +2074,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</UMCXUBAR>
+	</bar>
 
 
-	<JGDNPBAR  SN="jahAQ1V">
+	<bar SN="jahAQ1V">
 		<fett>14.27</fett>
 		<energy>1747.67</energy>
 		<kolhydrat>24.63</kolhydrat>
@@ -2085,10 +2085,10 @@
 		<fiber>44.0</fiber>
 		<review>
 		</review>
-	</JGDNPBAR>
+	</bar>
 
 
-	<GFQAXBAR  SN="g0ab35c">
+	<bar SN="g0ab35c">
 		<fett>27.36</fett>
 		<energy>2332.49</energy>
 		<kolhydrat>32.74</kolhydrat>
@@ -2104,10 +2104,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</GFQAXBAR>
+	</bar>
 
 
-	<IYBOABAR  SN="bfJfJYb">
+	<bar SN="bfJfJYb">
 		<fett>18.65</fett>
 		<energy>1307.23</energy>
 		<kolhydrat>10.28</kolhydrat>
@@ -2131,10 +2131,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</IYBOABAR>
+	</bar>
 
 
-	<OICQABAR  SN="JOlhjIj">
+	<bar SN="JOlhjIj">
 		<fett>10.28</fett>
 		<energy>1906.39</energy>
 		<kolhydrat>14.83</kolhydrat>
@@ -2154,10 +2154,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</OICQABAR>
+	</bar>
 
 
-	<JIFOGBAR  SN="si6eSy4">
+	<bar SN="si6eSy4">
 		<fett>38.62</fett>
 		<energy>2769.0</energy>
 		<kolhydrat>17.58</kolhydrat>
@@ -2185,10 +2185,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JIFOGBAR>
+	</bar>
 
 
-	<BRMEMBAR  SN="pAEOGgv">
+	<bar SN="pAEOGgv">
 		<fett>27.08</fett>
 		<energy>2261.11</energy>
 		<kolhydrat>14.37</kolhydrat>
@@ -2208,10 +2208,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</BRMEMBAR>
+	</bar>
 
 
-	<OSENNBAR  SN="yUdR22i">
+	<bar SN="yUdR22i">
 		<fett>12.91</fett>
 		<energy>2238.39</energy>
 		<kolhydrat>16.94</kolhydrat>
@@ -2239,10 +2239,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</OSENNBAR>
+	</bar>
 
 
-	<TLXGQBAR  SN="yZveWzY">
+	<bar SN="yZveWzY">
 		<fett>24.66</fett>
 		<energy>1821.0</energy>
 		<kolhydrat>12.45</kolhydrat>
@@ -2258,10 +2258,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</TLXGQBAR>
+	</bar>
 
 
-	<JUAWVBAR  SN="87emJCF">
+	<bar SN="87emJCF">
 		<fett>16.13</fett>
 		<energy>2002.97</energy>
 		<kolhydrat>30.19</kolhydrat>
@@ -2269,10 +2269,10 @@
 		<fiber>10.92</fiber>
 		<review>
 		</review>
-	</JUAWVBAR>
+	</bar>
 
 
-	<XELJKBAR  SN="dN0viiU">
+	<bar SN="dN0viiU">
 		<fett>16.08</fett>
 		<energy>2551.34</energy>
 		<kolhydrat>31.63</kolhydrat>
@@ -2284,10 +2284,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</XELJKBAR>
+	</bar>
 
 
-	<LCUQFBAR  SN="YKxOEeM">
+	<bar SN="YKxOEeM">
 		<fett>5.78</fett>
 		<energy>2502.67</energy>
 		<kolhydrat>22.28</kolhydrat>
@@ -2311,10 +2311,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</LCUQFBAR>
+	</bar>
 
 
-	<NJLUCBAR  SN="WZbEDO1">
+	<bar SN="WZbEDO1">
 		<fett>33.64</fett>
 		<energy>2519.11</energy>
 		<kolhydrat>8.09</kolhydrat>
@@ -2334,10 +2334,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</NJLUCBAR>
+	</bar>
 
 
-	<RFSMTBAR  SN="zvlxCrt">
+	<bar SN="zvlxCrt">
 		<fett>4.44</fett>
 		<energy>1296.0</energy>
 		<kolhydrat>4.67</kolhydrat>
@@ -2345,10 +2345,10 @@
 		<fiber>30.08</fiber>
 		<review>
 		</review>
-	</RFSMTBAR>
+	</bar>
 
 
-	<ZBILSBAR  SN="iobOwlj">
+	<bar SN="iobOwlj">
 		<fett>19.39</fett>
 		<energy>2423.59</energy>
 		<kolhydrat>37.91</kolhydrat>
@@ -2376,10 +2376,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZBILSBAR>
+	</bar>
 
 
-	<LWFMVBAR  SN="BFDToGx">
+	<bar SN="BFDToGx">
 		<fett>11.6</fett>
 		<energy>1268.55</energy>
 		<kolhydrat>3.93</kolhydrat>
@@ -2399,10 +2399,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</LWFMVBAR>
+	</bar>
 
 
-	<MWQNUBAR  SN="w9sOdtU">
+	<bar SN="w9sOdtU">
 		<fett>4.63</fett>
 		<energy>2511.93</energy>
 		<kolhydrat>3.38</kolhydrat>
@@ -2418,10 +2418,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MWQNUBAR>
+	</bar>
 
 
-	<ACSPRBAR  SN="34cqEBX">
+	<bar SN="34cqEBX">
 		<fett>40.06</fett>
 		<energy>2837.74</energy>
 		<kolhydrat>40.58</kolhydrat>
@@ -2449,10 +2449,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ACSPRBAR>
+	</bar>
 
 
-	<KTHLBBAR  SN="bfMMC8L">
+	<bar SN="bfMMC8L">
 		<fett>23.29</fett>
 		<energy>2076.39</energy>
 		<kolhydrat>25.94</kolhydrat>
@@ -2468,10 +2468,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</KTHLBBAR>
+	</bar>
 
 
-	<IXMFDBAR  SN="pw0hYJD">
+	<bar SN="pw0hYJD">
 		<fett>33.05</fett>
 		<energy>2093.88</energy>
 		<kolhydrat>13.63</kolhydrat>
@@ -2495,10 +2495,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</IXMFDBAR>
+	</bar>
 
 
-	<DUVITBAR  SN="wlSg1ya">
+	<bar SN="wlSg1ya">
 		<fett>12.99</fett>
 		<energy>2256.52</energy>
 		<kolhydrat>13.75</kolhydrat>
@@ -2518,10 +2518,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DUVITBAR>
+	</bar>
 
 
-	<MHFYFBAR  SN="FPknwrZ">
+	<bar SN="FPknwrZ">
 		<fett>41.51</fett>
 		<energy>1299.06</energy>
 		<kolhydrat>14.26</kolhydrat>
@@ -2541,10 +2541,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</MHFYFBAR>
+	</bar>
 
 
-	<OXWREBAR  SN="dRflnBD">
+	<bar SN="dRflnBD">
 		<fett>43.64</fett>
 		<energy>2352.64</energy>
 		<kolhydrat>18.68</kolhydrat>
@@ -2564,10 +2564,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</OXWREBAR>
+	</bar>
 
 
-	<ROZTIBAR  SN="vgclYh7">
+	<bar SN="vgclYh7">
 		<fett>2.02</fett>
 		<energy>1908.86</energy>
 		<kolhydrat>17.58</kolhydrat>
@@ -2583,10 +2583,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</ROZTIBAR>
+	</bar>
 
 
-	<ADWJIBAR  SN="Frb0SQS">
+	<bar SN="Frb0SQS">
 		<fett>4.99</fett>
 		<energy>1209.02</energy>
 		<kolhydrat>4.41</kolhydrat>
@@ -2606,10 +2606,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ADWJIBAR>
+	</bar>
 
 
-	<OUEQNBAR  SN="tvq8eHz">
+	<bar SN="tvq8eHz">
 		<fett>12.57</fett>
 		<energy>1757.06</energy>
 		<kolhydrat>20.97</kolhydrat>
@@ -2621,10 +2621,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</OUEQNBAR>
+	</bar>
 
 
-	<VQKPLBAR  SN="8pMG5xV">
+	<bar SN="8pMG5xV">
 		<fett>28.35</fett>
 		<energy>2287.42</energy>
 		<kolhydrat>35.77</kolhydrat>
@@ -2648,10 +2648,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</VQKPLBAR>
+	</bar>
 
 
-	<HMCPGBAR  SN="FnSUJZ1">
+	<bar SN="FnSUJZ1">
 		<fett>39.53</fett>
 		<energy>1627.28</energy>
 		<kolhydrat>28.56</kolhydrat>
@@ -2663,10 +2663,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</HMCPGBAR>
+	</bar>
 
 
-	<QDFDHBAR  SN="w2rcYKS">
+	<bar SN="w2rcYKS">
 		<fett>7.85</fett>
 		<energy>1314.74</energy>
 		<kolhydrat>34.03</kolhydrat>
@@ -2686,10 +2686,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</QDFDHBAR>
+	</bar>
 
 
-	<EAJGOBAR  SN="LsVDqls">
+	<bar SN="LsVDqls">
 		<fett>34.81</fett>
 		<energy>1120.2</energy>
 		<kolhydrat>17.81</kolhydrat>
@@ -2705,10 +2705,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</EAJGOBAR>
+	</bar>
 
 
-	<VGAHXBAR  SN="2kvHzrW">
+	<bar SN="2kvHzrW">
 		<fett>26.56</fett>
 		<energy>2117.93</energy>
 		<kolhydrat>13.49</kolhydrat>
@@ -2728,10 +2728,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</VGAHXBAR>
+	</bar>
 
 
-	<PFKDTBAR  SN="tydK3OK">
+	<bar SN="tydK3OK">
 		<fett>39.67</fett>
 		<energy>1605.65</energy>
 		<kolhydrat>29.12</kolhydrat>
@@ -2747,10 +2747,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PFKDTBAR>
+	</bar>
 
 
-	<RXRGQBAR  SN="xN4dR3i">
+	<bar SN="xN4dR3i">
 		<fett>6.58</fett>
 		<energy>1203.66</energy>
 		<kolhydrat>44.17</kolhydrat>
@@ -2766,10 +2766,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</RXRGQBAR>
+	</bar>
 
 
-	<JMENQBAR  SN="gPp6kud">
+	<bar SN="gPp6kud">
 		<fett>44.89</fett>
 		<energy>2771.92</energy>
 		<kolhydrat>5.16</kolhydrat>
@@ -2789,10 +2789,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</JMENQBAR>
+	</bar>
 
 
-	<PEBCRBAR  SN="5PM1wg0">
+	<bar SN="5PM1wg0">
 		<fett>7.78</fett>
 		<energy>1219.88</energy>
 		<kolhydrat>37.69</kolhydrat>
@@ -2812,10 +2812,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</PEBCRBAR>
+	</bar>
 
 
-	<RELYIBAR  SN="NKGQKri">
+	<bar SN="NKGQKri">
 		<fett>5.73</fett>
 		<energy>2786.76</energy>
 		<kolhydrat>43.31</kolhydrat>
@@ -2843,10 +2843,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</RELYIBAR>
+	</bar>
 
 
-	<STCPABAR  SN="fRQpMva">
+	<bar SN="fRQpMva">
 		<fett>18.69</fett>
 		<energy>1126.55</energy>
 		<kolhydrat>26.56</kolhydrat>
@@ -2870,10 +2870,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</STCPABAR>
+	</bar>
 
 
-	<KUBNSBAR  SN="RFnSbIi">
+	<bar SN="RFnSbIi">
 		<fett>5.0</fett>
 		<energy>1365.94</energy>
 		<kolhydrat>40.93</kolhydrat>
@@ -2889,10 +2889,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</KUBNSBAR>
+	</bar>
 
 
-	<ETUYVBAR  SN="YPAtbfT">
+	<bar SN="YPAtbfT">
 		<fett>42.11</fett>
 		<energy>2826.95</energy>
 		<kolhydrat>20.67</kolhydrat>
@@ -2904,10 +2904,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</ETUYVBAR>
+	</bar>
 
 
-	<KWXTDBAR  SN="KI1QF0s">
+	<bar SN="KI1QF0s">
 		<fett>28.6</fett>
 		<energy>1847.33</energy>
 		<kolhydrat>8.34</kolhydrat>
@@ -2931,10 +2931,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</KWXTDBAR>
+	</bar>
 
 
-	<WEQHZBAR  SN="RoMhdXm">
+	<bar SN="RoMhdXm">
 		<fett>28.6</fett>
 		<energy>2413.96</energy>
 		<kolhydrat>37.29</kolhydrat>
@@ -2946,10 +2946,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</WEQHZBAR>
+	</bar>
 
 
-	<HAXSQBAR  SN="Nzyd6so">
+	<bar SN="Nzyd6so">
 		<fett>20.96</fett>
 		<energy>1424.35</energy>
 		<kolhydrat>7.97</kolhydrat>
@@ -2957,10 +2957,10 @@
 		<fiber>15.26</fiber>
 		<review>
 		</review>
-	</HAXSQBAR>
+	</bar>
 
 
-	<PDLXWBAR  SN="jWFtc2T">
+	<bar SN="jWFtc2T">
 		<fett>32.73</fett>
 		<energy>1228.1</energy>
 		<kolhydrat>43.87</kolhydrat>
@@ -2984,10 +2984,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</PDLXWBAR>
+	</bar>
 
 
-	<LZOHJBAR  SN="cwgmHdQ">
+	<bar SN="cwgmHdQ">
 		<fett>29.71</fett>
 		<energy>2774.58</energy>
 		<kolhydrat>9.37</kolhydrat>
@@ -2995,10 +2995,10 @@
 		<fiber>13.47</fiber>
 		<review>
 		</review>
-	</LZOHJBAR>
+	</bar>
 
 
-	<BFVAOBAR  SN="x7O5eBe">
+	<bar SN="x7O5eBe">
 		<fett>38.04</fett>
 		<energy>1258.27</energy>
 		<kolhydrat>10.84</kolhydrat>
@@ -3010,10 +3010,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</BFVAOBAR>
+	</bar>
 
 
-	<APZUHBAR  SN="e9msKpL">
+	<bar SN="e9msKpL">
 		<fett>34.1</fett>
 		<energy>1049.23</energy>
 		<kolhydrat>4.96</kolhydrat>
@@ -3041,10 +3041,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</APZUHBAR>
+	</bar>
 
 
-	<ZETJFBAR  SN="gxuqzzz">
+	<bar SN="gxuqzzz">
 		<fett>31.46</fett>
 		<energy>1437.97</energy>
 		<kolhydrat>24.79</kolhydrat>
@@ -3072,10 +3072,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ZETJFBAR>
+	</bar>
 
 
-	<KUOMRBAR  SN="3U7Uz2d">
+	<bar SN="3U7Uz2d">
 		<fett>32.59</fett>
 		<energy>1264.91</energy>
 		<kolhydrat>36.32</kolhydrat>
@@ -3087,10 +3087,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</KUOMRBAR>
+	</bar>
 
 
-	<JLNCHBAR  SN="BBI3EbC">
+	<bar SN="BBI3EbC">
 		<fett>34.54</fett>
 		<energy>1359.53</energy>
 		<kolhydrat>12.41</kolhydrat>
@@ -3106,10 +3106,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</JLNCHBAR>
+	</bar>
 
 
-	<DPMUOBAR  SN="vxrUWgt">
+	<bar SN="vxrUWgt">
 		<fett>14.83</fett>
 		<energy>2580.41</energy>
 		<kolhydrat>30.81</kolhydrat>
@@ -3125,10 +3125,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</DPMUOBAR>
+	</bar>
 
 
-	<XUMSABAR  SN="a17BxRD">
+	<bar SN="a17BxRD">
 		<fett>6.64</fett>
 		<energy>2890.24</energy>
 		<kolhydrat>9.47</kolhydrat>
@@ -3144,10 +3144,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</XUMSABAR>
+	</bar>
 
 
-	<PAVGJBAR  SN="dt9AG4l">
+	<bar SN="dt9AG4l">
 		<fett>19.69</fett>
 		<energy>2872.15</energy>
 		<kolhydrat>44.73</kolhydrat>
@@ -3163,10 +3163,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</PAVGJBAR>
+	</bar>
 
 
-	<ZLLPSBAR  SN="aTBpCuf">
+	<bar SN="aTBpCuf">
 		<fett>31.01</fett>
 		<energy>2923.57</energy>
 		<kolhydrat>40.86</kolhydrat>
@@ -3174,10 +3174,10 @@
 		<fiber>8.36</fiber>
 		<review>
 		</review>
-	</ZLLPSBAR>
+	</bar>
 
 
-	<ZVJRDBAR  SN="gqV259b">
+	<bar SN="gqV259b">
 		<fett>10.71</fett>
 		<energy>2575.52</energy>
 		<kolhydrat>20.11</kolhydrat>
@@ -3193,10 +3193,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ZVJRDBAR>
+	</bar>
 
 
-	<OVOZUBAR  SN="2ctmQV6">
+	<bar SN="2ctmQV6">
 		<fett>34.68</fett>
 		<energy>1860.1</energy>
 		<kolhydrat>26.05</kolhydrat>
@@ -3204,10 +3204,10 @@
 		<fiber>11.67</fiber>
 		<review>
 		</review>
-	</OVOZUBAR>
+	</bar>
 
 
-	<EWBKTBAR  SN="RTekZei">
+	<bar SN="RTekZei">
 		<fett>22.71</fett>
 		<energy>1808.43</energy>
 		<kolhydrat>27.3</kolhydrat>
@@ -3231,10 +3231,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</EWBKTBAR>
+	</bar>
 
 
-	<LSORGBAR  SN="NAlOtJh">
+	<bar SN="NAlOtJh">
 		<fett>12.83</fett>
 		<energy>1347.01</energy>
 		<kolhydrat>16.14</kolhydrat>
@@ -3262,10 +3262,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</LSORGBAR>
+	</bar>
 
 
-	<THRHQBAR  SN="P37c8I0">
+	<bar SN="P37c8I0">
 		<fett>42.06</fett>
 		<energy>2155.02</energy>
 		<kolhydrat>13.7</kolhydrat>
@@ -3285,10 +3285,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</THRHQBAR>
+	</bar>
 
 
-	<TIROVBAR  SN="By65Qsn">
+	<bar SN="By65Qsn">
 		<fett>29.9</fett>
 		<energy>2450.67</energy>
 		<kolhydrat>22.39</kolhydrat>
@@ -3316,10 +3316,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</TIROVBAR>
+	</bar>
 
 
-	<ZNVWZBAR  SN="eDMPw1H">
+	<bar SN="eDMPw1H">
 		<fett>9.65</fett>
 		<energy>2513.97</energy>
 		<kolhydrat>17.58</kolhydrat>
@@ -3343,10 +3343,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZNVWZBAR>
+	</bar>
 
 
-	<VHVWIBAR  SN="ivpQZxO">
+	<bar SN="ivpQZxO">
 		<fett>40.45</fett>
 		<energy>2478.39</energy>
 		<kolhydrat>36.47</kolhydrat>
@@ -3358,10 +3358,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</VHVWIBAR>
+	</bar>
 
 
-	<KKRELBAR  SN="OMRP4vP">
+	<bar SN="OMRP4vP">
 		<fett>4.43</fett>
 		<energy>1751.53</energy>
 		<kolhydrat>8.07</kolhydrat>
@@ -3385,10 +3385,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</KKRELBAR>
+	</bar>
 
 
-	<NKGJCBAR  SN="dL5S5W5">
+	<bar SN="dL5S5W5">
 		<fett>27.42</fett>
 		<energy>2173.18</energy>
 		<kolhydrat>16.74</kolhydrat>
@@ -3404,10 +3404,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</NKGJCBAR>
+	</bar>
 
 
-	<HZABKBAR  SN="SwgExKn">
+	<bar SN="SwgExKn">
 		<fett>20.77</fett>
 		<energy>2983.98</energy>
 		<kolhydrat>31.65</kolhydrat>
@@ -3431,10 +3431,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</HZABKBAR>
+	</bar>
 
 
-	<MOYGOBAR  SN="MStXpXy">
+	<bar SN="MStXpXy">
 		<fett>25.06</fett>
 		<energy>2698.94</energy>
 		<kolhydrat>21.79</kolhydrat>
@@ -3458,10 +3458,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</MOYGOBAR>
+	</bar>
 
 
-	<BZXRBBAR  SN="njFe5Ho">
+	<bar SN="njFe5Ho">
 		<fett>5.39</fett>
 		<energy>1541.36</energy>
 		<kolhydrat>16.48</kolhydrat>
@@ -3489,10 +3489,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</BZXRBBAR>
+	</bar>
 
 
-	<CPSBFBAR  SN="GoySZ4p">
+	<bar SN="GoySZ4p">
 		<fett>23.82</fett>
 		<energy>2224.44</energy>
 		<kolhydrat>13.61</kolhydrat>
@@ -3520,10 +3520,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</CPSBFBAR>
+	</bar>
 
 
-	<IFOROBAR  SN="Zyq08Gi">
+	<bar SN="Zyq08Gi">
 		<fett>43.97</fett>
 		<energy>2384.44</energy>
 		<kolhydrat>16.47</kolhydrat>
@@ -3539,10 +3539,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</IFOROBAR>
+	</bar>
 
 
-	<FMLOHBAR  SN="O1E9kDF">
+	<bar SN="O1E9kDF">
 		<fett>38.75</fett>
 		<energy>1508.18</energy>
 		<kolhydrat>31.81</kolhydrat>
@@ -3558,10 +3558,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</FMLOHBAR>
+	</bar>
 
 
-	<XEGVEBAR  SN="YUFsuzh">
+	<bar SN="YUFsuzh">
 		<fett>22.74</fett>
 		<energy>1344.04</energy>
 		<kolhydrat>2.65</kolhydrat>
@@ -3581,10 +3581,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</XEGVEBAR>
+	</bar>
 
 
-	<JSUXZBAR  SN="BpqaOuK">
+	<bar SN="BpqaOuK">
 		<fett>31.15</fett>
 		<energy>2775.27</energy>
 		<kolhydrat>22.6</kolhydrat>
@@ -3592,10 +3592,10 @@
 		<fiber>8.19</fiber>
 		<review>
 		</review>
-	</JSUXZBAR>
+	</bar>
 
 
-	<NQRNJBAR  SN="Xg3ZyuD">
+	<bar SN="Xg3ZyuD">
 		<fett>38.61</fett>
 		<energy>1905.49</energy>
 		<kolhydrat>32.98</kolhydrat>
@@ -3619,10 +3619,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</NQRNJBAR>
+	</bar>
 
 
-	<LTIHUBAR  SN="OPipUzu">
+	<bar SN="OPipUzu">
 		<fett>4.03</fett>
 		<energy>1524.24</energy>
 		<kolhydrat>40.66</kolhydrat>
@@ -3650,10 +3650,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</LTIHUBAR>
+	</bar>
 
 
-	<TUENZBAR  SN="ZpFDQZp">
+	<bar SN="ZpFDQZp">
 		<fett>44.79</fett>
 		<energy>1256.13</energy>
 		<kolhydrat>2.32</kolhydrat>
@@ -3677,10 +3677,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</TUENZBAR>
+	</bar>
 
 
-	<MHRFCBAR  SN="J3Pw9lN">
+	<bar SN="J3Pw9lN">
 		<fett>1.25</fett>
 		<energy>1801.09</energy>
 		<kolhydrat>13.26</kolhydrat>
@@ -3704,10 +3704,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MHRFCBAR>
+	</bar>
 
 
-	<JOPRJBAR  SN="OtubKnR">
+	<bar SN="OtubKnR">
 		<fett>16.66</fett>
 		<energy>2917.59</energy>
 		<kolhydrat>13.41</kolhydrat>
@@ -3727,10 +3727,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</JOPRJBAR>
+	</bar>
 
 
-	<AGWTQBAR  SN="psAQkv0">
+	<bar SN="psAQkv0">
 		<fett>33.87</fett>
 		<energy>1973.44</energy>
 		<kolhydrat>14.99</kolhydrat>
@@ -3746,10 +3746,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</AGWTQBAR>
+	</bar>
 
 
-	<TIJAUBAR  SN="KSduW9I">
+	<bar SN="KSduW9I">
 		<fett>26.57</fett>
 		<energy>2848.69</energy>
 		<kolhydrat>6.68</kolhydrat>
@@ -3765,10 +3765,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</TIJAUBAR>
+	</bar>
 
 
-	<UEADJBAR  SN="AuXHYPT">
+	<bar SN="AuXHYPT">
 		<fett>37.0</fett>
 		<energy>2007.26</energy>
 		<kolhydrat>29.73</kolhydrat>
@@ -3796,10 +3796,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</UEADJBAR>
+	</bar>
 
 
-	<TVCPIBAR  SN="2DM5247">
+	<bar SN="2DM5247">
 		<fett>43.25</fett>
 		<energy>1606.64</energy>
 		<kolhydrat>7.11</kolhydrat>
@@ -3819,10 +3819,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</TVCPIBAR>
+	</bar>
 
 
-	<FFQNFBAR  SN="HMSOT7o">
+	<bar SN="HMSOT7o">
 		<fett>33.66</fett>
 		<energy>1099.62</energy>
 		<kolhydrat>29.26</kolhydrat>
@@ -3838,10 +3838,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</FFQNFBAR>
+	</bar>
 
 
-	<NXGXJBAR  SN="CAffeV5">
+	<bar SN="CAffeV5">
 		<fett>40.24</fett>
 		<energy>1580.19</energy>
 		<kolhydrat>1.49</kolhydrat>
@@ -3869,10 +3869,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</NXGXJBAR>
+	</bar>
 
 
-	<NPHEFBAR  SN="ZsK6MP5">
+	<bar SN="ZsK6MP5">
 		<fett>13.08</fett>
 		<energy>2727.82</energy>
 		<kolhydrat>1.78</kolhydrat>
@@ -3892,10 +3892,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</NPHEFBAR>
+	</bar>
 
 
-	<NOEAGBAR  SN="I1kDRWw">
+	<bar SN="I1kDRWw">
 		<fett>24.61</fett>
 		<energy>1853.35</energy>
 		<kolhydrat>17.74</kolhydrat>
@@ -3915,10 +3915,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</NOEAGBAR>
+	</bar>
 
 
-	<CLYXWBAR  SN="THvgEns">
+	<bar SN="THvgEns">
 		<fett>14.28</fett>
 		<energy>1016.22</energy>
 		<kolhydrat>14.65</kolhydrat>
@@ -3942,10 +3942,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</CLYXWBAR>
+	</bar>
 
 
-	<HMPHVBAR  SN="hr8X8J1">
+	<bar SN="hr8X8J1">
 		<fett>26.3</fett>
 		<energy>2586.48</energy>
 		<kolhydrat>35.27</kolhydrat>
@@ -3969,10 +3969,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HMPHVBAR>
+	</bar>
 
 
-	<RPVDSBAR  SN="pgW4hZG">
+	<bar SN="pgW4hZG">
 		<fett>6.35</fett>
 		<energy>2221.84</energy>
 		<kolhydrat>12.2</kolhydrat>
@@ -3996,10 +3996,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</RPVDSBAR>
+	</bar>
 
 
-	<AXIDOBAR  SN="iEB7PlU">
+	<bar SN="iEB7PlU">
 		<fett>2.08</fett>
 		<energy>2402.38</energy>
 		<kolhydrat>8.33</kolhydrat>
@@ -4027,10 +4027,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</AXIDOBAR>
+	</bar>
 
 
-	<ICKGYBAR  SN="baBBCZI">
+	<bar SN="baBBCZI">
 		<fett>26.33</fett>
 		<energy>2298.96</energy>
 		<kolhydrat>13.13</kolhydrat>
@@ -4046,10 +4046,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</ICKGYBAR>
+	</bar>
 
 
-	<IROHQBAR  SN="Z19myNQ">
+	<bar SN="Z19myNQ">
 		<fett>21.57</fett>
 		<energy>2240.67</energy>
 		<kolhydrat>13.05</kolhydrat>
@@ -4061,10 +4061,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</IROHQBAR>
+	</bar>
 
 
-	<NKXJIBAR  SN="yiQMpVC">
+	<bar SN="yiQMpVC">
 		<fett>32.47</fett>
 		<energy>1290.79</energy>
 		<kolhydrat>25.64</kolhydrat>
@@ -4076,10 +4076,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</NKXJIBAR>
+	</bar>
 
 
-	<OVQOZBAR  SN="sqyV6iu">
+	<bar SN="sqyV6iu">
 		<fett>1.5</fett>
 		<energy>1084.96</energy>
 		<kolhydrat>42.58</kolhydrat>
@@ -4103,10 +4103,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</OVQOZBAR>
+	</bar>
 
 
-	<RXTVCBAR  SN="Dh4tCoM">
+	<bar SN="Dh4tCoM">
 		<fett>9.3</fett>
 		<energy>2624.06</energy>
 		<kolhydrat>20.61</kolhydrat>
@@ -4134,10 +4134,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</RXTVCBAR>
+	</bar>
 
 
-	<IEXCRBAR  SN="NGped0C">
+	<bar SN="NGped0C">
 		<fett>43.92</fett>
 		<energy>1723.74</energy>
 		<kolhydrat>10.65</kolhydrat>
@@ -4149,10 +4149,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</IEXCRBAR>
+	</bar>
 
 
-	<MEBQNBAR  SN="X7HrCvu">
+	<bar SN="X7HrCvu">
 		<fett>36.02</fett>
 		<energy>2285.55</energy>
 		<kolhydrat>35.23</kolhydrat>
@@ -4164,10 +4164,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</MEBQNBAR>
+	</bar>
 
 
-	<KZMFZBAR  SN="vFT5Qbf">
+	<bar SN="vFT5Qbf">
 		<fett>13.63</fett>
 		<energy>2223.28</energy>
 		<kolhydrat>6.33</kolhydrat>
@@ -4183,10 +4183,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</KZMFZBAR>
+	</bar>
 
 
-	<SGDLSBAR  SN="P3AqXF4">
+	<bar SN="P3AqXF4">
 		<fett>2.06</fett>
 		<energy>1803.3</energy>
 		<kolhydrat>32.57</kolhydrat>
@@ -4198,10 +4198,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</SGDLSBAR>
+	</bar>
 
 
-	<QJEVGBAR  SN="LfvD8px">
+	<bar SN="LfvD8px">
 		<fett>30.53</fett>
 		<energy>1129.28</energy>
 		<kolhydrat>18.55</kolhydrat>
@@ -4213,10 +4213,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</QJEVGBAR>
+	</bar>
 
 
-	<FXPXQBAR  SN="1u79n6b">
+	<bar SN="1u79n6b">
 		<fett>35.29</fett>
 		<energy>1120.2</energy>
 		<kolhydrat>35.71</kolhydrat>
@@ -4232,10 +4232,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</FXPXQBAR>
+	</bar>
 
 
-	<CUORRBAR  SN="amFk33c">
+	<bar SN="amFk33c">
 		<fett>17.35</fett>
 		<energy>1324.62</energy>
 		<kolhydrat>37.66</kolhydrat>
@@ -4247,10 +4247,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</CUORRBAR>
+	</bar>
 
 
-	<VGZWDBAR  SN="Geri0Kn">
+	<bar SN="Geri0Kn">
 		<fett>21.74</fett>
 		<energy>2553.57</energy>
 		<kolhydrat>25.31</kolhydrat>
@@ -4270,10 +4270,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</VGZWDBAR>
+	</bar>
 
 
-	<FFRWXBAR  SN="xr7kUl1">
+	<bar SN="xr7kUl1">
 		<fett>37.39</fett>
 		<energy>1517.59</energy>
 		<kolhydrat>41.91</kolhydrat>
@@ -4281,10 +4281,10 @@
 		<fiber>6.14</fiber>
 		<review>
 		</review>
-	</FFRWXBAR>
+	</bar>
 
 
-	<EMIMNBAR  SN="qO8ANFE">
+	<bar SN="qO8ANFE">
 		<fett>42.79</fett>
 		<energy>1537.25</energy>
 		<kolhydrat>18.38</kolhydrat>
@@ -4312,10 +4312,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</EMIMNBAR>
+	</bar>
 
 
-	<JODNXBAR  SN="dssMtS7">
+	<bar SN="dssMtS7">
 		<fett>20.6</fett>
 		<energy>1947.94</energy>
 		<kolhydrat>32.6</kolhydrat>
@@ -4343,10 +4343,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</JODNXBAR>
+	</bar>
 
 
-	<XREHIBAR  SN="MBHtymQ">
+	<bar SN="MBHtymQ">
 		<fett>36.55</fett>
 		<energy>1473.73</energy>
 		<kolhydrat>4.86</kolhydrat>
@@ -4374,10 +4374,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</XREHIBAR>
+	</bar>
 
 
-	<JTEGFBAR  SN="8oIhQ2S">
+	<bar SN="8oIhQ2S">
 		<fett>36.23</fett>
 		<energy>2762.42</energy>
 		<kolhydrat>17.81</kolhydrat>
@@ -4401,10 +4401,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JTEGFBAR>
+	</bar>
 
 
-	<ZIYAZBAR  SN="EFlZIfK">
+	<bar SN="EFlZIfK">
 		<fett>37.48</fett>
 		<energy>2912.76</energy>
 		<kolhydrat>27.21</kolhydrat>
@@ -4432,10 +4432,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</ZIYAZBAR>
+	</bar>
 
 
-	<CVMEVBAR  SN="3dv830u">
+	<bar SN="3dv830u">
 		<fett>2.15</fett>
 		<energy>2760.34</energy>
 		<kolhydrat>11.62</kolhydrat>
@@ -4443,10 +4443,10 @@
 		<fiber>11.19</fiber>
 		<review>
 		</review>
-	</CVMEVBAR>
+	</bar>
 
 
-	<PDLBSBAR  SN="fgA5czg">
+	<bar SN="fgA5czg">
 		<fett>8.34</fett>
 		<energy>2625.37</energy>
 		<kolhydrat>41.01</kolhydrat>
@@ -4458,10 +4458,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</PDLBSBAR>
+	</bar>
 
 
-	<BLFMPBAR  SN="g7JJ4YB">
+	<bar SN="g7JJ4YB">
 		<fett>37.65</fett>
 		<energy>1309.21</energy>
 		<kolhydrat>41.98</kolhydrat>
@@ -4489,10 +4489,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</BLFMPBAR>
+	</bar>
 
 
-	<AMUXGBAR  SN="osr7Jlx">
+	<bar SN="osr7Jlx">
 		<fett>11.21</fett>
 		<energy>1584.57</energy>
 		<kolhydrat>6.62</kolhydrat>
@@ -4512,10 +4512,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</AMUXGBAR>
+	</bar>
 
 
-	<ZELFJBAR  SN="tqMBVNP">
+	<bar SN="tqMBVNP">
 		<fett>31.67</fett>
 		<energy>2829.01</energy>
 		<kolhydrat>30.97</kolhydrat>
@@ -4531,10 +4531,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ZELFJBAR>
+	</bar>
 
 
-	<JLHSPBAR  SN="EeQuUgI">
+	<bar SN="EeQuUgI">
 		<fett>9.01</fett>
 		<energy>2374.63</energy>
 		<kolhydrat>13.24</kolhydrat>
@@ -4546,10 +4546,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JLHSPBAR>
+	</bar>
 
 
-	<ILWYJBAR  SN="d2VdZEG">
+	<bar SN="d2VdZEG">
 		<fett>4.6</fett>
 		<energy>2158.59</energy>
 		<kolhydrat>4.1</kolhydrat>
@@ -4561,10 +4561,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ILWYJBAR>
+	</bar>
 
 
-	<TCDQTBAR  SN="e9UXffO">
+	<bar SN="e9UXffO">
 		<fett>42.65</fett>
 		<energy>1526.01</energy>
 		<kolhydrat>36.27</kolhydrat>
@@ -4576,10 +4576,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</TCDQTBAR>
+	</bar>
 
 
-	<JDFGZBAR  SN="Vvw0uWn">
+	<bar SN="Vvw0uWn">
 		<fett>5.22</fett>
 		<energy>1154.14</energy>
 		<kolhydrat>15.04</kolhydrat>
@@ -4595,10 +4595,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JDFGZBAR>
+	</bar>
 
 
-	<SQYDGBAR  SN="4kkr6ih">
+	<bar SN="4kkr6ih">
 		<fett>29.8</fett>
 		<energy>1865.77</energy>
 		<kolhydrat>1.77</kolhydrat>
@@ -4622,10 +4622,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</SQYDGBAR>
+	</bar>
 
 
-	<JRTRCBAR  SN="WCKwXnn">
+	<bar SN="WCKwXnn">
 		<fett>32.82</fett>
 		<energy>2842.34</energy>
 		<kolhydrat>28.01</kolhydrat>
@@ -4649,10 +4649,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JRTRCBAR>
+	</bar>
 
 
-	<USAHGBAR  SN="UtBadbw">
+	<bar SN="UtBadbw">
 		<fett>29.31</fett>
 		<energy>2419.55</energy>
 		<kolhydrat>1.35</kolhydrat>
@@ -4664,10 +4664,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</USAHGBAR>
+	</bar>
 
 
-	<XZKJABAR  SN="gR25YJE">
+	<bar SN="gR25YJE">
 		<fett>22.35</fett>
 		<energy>2568.5</energy>
 		<kolhydrat>38.04</kolhydrat>
@@ -4687,10 +4687,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</XZKJABAR>
+	</bar>
 
 
-	<HEAVLBAR  SN="tShkad0">
+	<bar SN="tShkad0">
 		<fett>33.17</fett>
 		<energy>1869.86</energy>
 		<kolhydrat>27.12</kolhydrat>
@@ -4710,10 +4710,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HEAVLBAR>
+	</bar>
 
 
-	<EAXSEBAR  SN="EuhJsbi">
+	<bar SN="EuhJsbi">
 		<fett>38.94</fett>
 		<energy>2739.28</energy>
 		<kolhydrat>15.09</kolhydrat>
@@ -4737,10 +4737,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</EAXSEBAR>
+	</bar>
 
 
-	<QSWWZBAR  SN="P7RcKvX">
+	<bar SN="P7RcKvX">
 		<fett>40.84</fett>
 		<energy>2547.14</energy>
 		<kolhydrat>11.1</kolhydrat>
@@ -4752,10 +4752,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</QSWWZBAR>
+	</bar>
 
 
-	<QUYRIBAR  SN="iRT30df">
+	<bar SN="iRT30df">
 		<fett>42.34</fett>
 		<energy>2932.59</energy>
 		<kolhydrat>40.55</kolhydrat>
@@ -4783,10 +4783,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</QUYRIBAR>
+	</bar>
 
 
-	<MPFKMBAR  SN="BzntVt6">
+	<bar SN="BzntVt6">
 		<fett>8.31</fett>
 		<energy>2343.22</energy>
 		<kolhydrat>42.79</kolhydrat>
@@ -4814,10 +4814,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</MPFKMBAR>
+	</bar>
 
 
-	<SQGIVBAR  SN="kZrNlo0">
+	<bar SN="kZrNlo0">
 		<fett>3.69</fett>
 		<energy>2493.9</energy>
 		<kolhydrat>20.79</kolhydrat>
@@ -4841,10 +4841,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</SQGIVBAR>
+	</bar>
 
 
-	<LHOPBBAR  SN="VVuagA4">
+	<bar SN="VVuagA4">
 		<fett>19.58</fett>
 		<energy>2237.0</energy>
 		<kolhydrat>29.73</kolhydrat>
@@ -4864,10 +4864,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</LHOPBBAR>
+	</bar>
 
 
-	<ECGRCBAR  SN="M6eklu5">
+	<bar SN="M6eklu5">
 		<fett>32.61</fett>
 		<energy>1920.82</energy>
 		<kolhydrat>37.26</kolhydrat>
@@ -4895,10 +4895,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</ECGRCBAR>
+	</bar>
 
 
-	<OQCISBAR  SN="kI6D3cV">
+	<bar SN="kI6D3cV">
 		<fett>38.61</fett>
 		<energy>2087.55</energy>
 		<kolhydrat>27.92</kolhydrat>
@@ -4914,10 +4914,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</OQCISBAR>
+	</bar>
 
 
-	<RXUAYBAR  SN="3FFusFZ">
+	<bar SN="3FFusFZ">
 		<fett>15.21</fett>
 		<energy>2223.03</energy>
 		<kolhydrat>39.07</kolhydrat>
@@ -4937,10 +4937,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</RXUAYBAR>
+	</bar>
 
 
-	<AHKJQBAR  SN="Ch5BdyA">
+	<bar SN="Ch5BdyA">
 		<fett>11.67</fett>
 		<energy>2101.02</energy>
 		<kolhydrat>12.17</kolhydrat>
@@ -4952,10 +4952,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</AHKJQBAR>
+	</bar>
 
 
-	<HBQOLBAR  SN="fs2o8hA">
+	<bar SN="fs2o8hA">
 		<fett>32.43</fett>
 		<energy>1820.27</energy>
 		<kolhydrat>27.59</kolhydrat>
@@ -4963,10 +4963,10 @@
 		<fiber>12.09</fiber>
 		<review>
 		</review>
-	</HBQOLBAR>
+	</bar>
 
 
-	<IJCPBBAR  SN="KlLELeg">
+	<bar SN="KlLELeg">
 		<fett>20.38</fett>
 		<energy>2876.24</energy>
 		<kolhydrat>3.79</kolhydrat>
@@ -4978,10 +4978,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</IJCPBBAR>
+	</bar>
 
 
-	<WCIUMBAR  SN="noCYicQ">
+	<bar SN="noCYicQ">
 		<fett>6.7</fett>
 		<energy>2656.28</energy>
 		<kolhydrat>23.29</kolhydrat>
@@ -4993,10 +4993,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</WCIUMBAR>
+	</bar>
 
 
-	<GRRAGBAR  SN="gFxUrsb">
+	<bar SN="gFxUrsb">
 		<fett>42.81</fett>
 		<energy>1951.7</energy>
 		<kolhydrat>40.52</kolhydrat>
@@ -5016,10 +5016,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</GRRAGBAR>
+	</bar>
 
 
-	<YBQNDBAR  SN="gLE3uO6">
+	<bar SN="gLE3uO6">
 		<fett>29.34</fett>
 		<energy>2432.26</energy>
 		<kolhydrat>38.24</kolhydrat>
@@ -5047,10 +5047,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</YBQNDBAR>
+	</bar>
 
 
-	<LZVKKBAR  SN="OK6aqv9">
+	<bar SN="OK6aqv9">
 		<fett>27.8</fett>
 		<energy>1983.15</energy>
 		<kolhydrat>41.03</kolhydrat>
@@ -5066,10 +5066,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</LZVKKBAR>
+	</bar>
 
 
-	<ZRBPIBAR  SN="zbs0eUu">
+	<bar SN="zbs0eUu">
 		<fett>23.68</fett>
 		<energy>2929.08</energy>
 		<kolhydrat>30.43</kolhydrat>
@@ -5097,10 +5097,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZRBPIBAR>
+	</bar>
 
 
-	<OQZWDBAR  SN="RsG9N62">
+	<bar SN="RsG9N62">
 		<fett>26.35</fett>
 		<energy>2228.84</energy>
 		<kolhydrat>13.16</kolhydrat>
@@ -5124,10 +5124,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</OQZWDBAR>
+	</bar>
 
 
-	<YSBNBBAR  SN="k9Hh1aM">
+	<bar SN="k9Hh1aM">
 		<fett>23.61</fett>
 		<energy>2349.55</energy>
 		<kolhydrat>7.75</kolhydrat>
@@ -5147,10 +5147,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</YSBNBBAR>
+	</bar>
 
 
-	<BVDGBBAR  SN="zqoMj4D">
+	<bar SN="zqoMj4D">
 		<fett>4.58</fett>
 		<energy>1802.18</energy>
 		<kolhydrat>38.76</kolhydrat>
@@ -5178,10 +5178,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</BVDGBBAR>
+	</bar>
 
 
-	<TNOOUBAR  SN="pi8x9Oo">
+	<bar SN="pi8x9Oo">
 		<fett>13.01</fett>
 		<energy>2487.09</energy>
 		<kolhydrat>4.11</kolhydrat>
@@ -5205,10 +5205,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</TNOOUBAR>
+	</bar>
 
 
-	<MEJWUBAR  SN="4cWjxX2">
+	<bar SN="4cWjxX2">
 		<fett>30.83</fett>
 		<energy>2061.43</energy>
 		<kolhydrat>38.7</kolhydrat>
@@ -5232,10 +5232,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MEJWUBAR>
+	</bar>
 
 
-	<BVCPZBAR  SN="L4Ci5eS">
+	<bar SN="L4Ci5eS">
 		<fett>16.82</fett>
 		<energy>1244.82</energy>
 		<kolhydrat>36.02</kolhydrat>
@@ -5251,10 +5251,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</BVCPZBAR>
+	</bar>
 
 
-	<EMXHYBAR  SN="2rZ0fjq">
+	<bar SN="2rZ0fjq">
 		<fett>17.56</fett>
 		<energy>2086.48</energy>
 		<kolhydrat>17.95</kolhydrat>
@@ -5270,10 +5270,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</EMXHYBAR>
+	</bar>
 
 
-	<QXKIGBAR  SN="V3dNt9w">
+	<bar SN="V3dNt9w">
 		<fett>32.25</fett>
 		<energy>2119.17</energy>
 		<kolhydrat>17.47</kolhydrat>
@@ -5281,10 +5281,10 @@
 		<fiber>23.05</fiber>
 		<review>
 		</review>
-	</QXKIGBAR>
+	</bar>
 
 
-	<LWCHBBAR  SN="Vj8Hn2k">
+	<bar SN="Vj8Hn2k">
 		<fett>28.35</fett>
 		<energy>1465.66</energy>
 		<kolhydrat>42.77</kolhydrat>
@@ -5296,10 +5296,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</LWCHBBAR>
+	</bar>
 
 
-	<UITRMBAR  SN="0MLNzvR">
+	<bar SN="0MLNzvR">
 		<fett>18.76</fett>
 		<energy>1135.4</energy>
 		<kolhydrat>2.21</kolhydrat>
@@ -5319,10 +5319,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</UITRMBAR>
+	</bar>
 
 
-	<SPQBNBAR  SN="8276Qvm">
+	<bar SN="8276Qvm">
 		<fett>15.42</fett>
 		<energy>2857.59</energy>
 		<kolhydrat>18.84</kolhydrat>
@@ -5346,10 +5346,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SPQBNBAR>
+	</bar>
 
 
-	<DAGRNBAR  SN="Me99e9z">
+	<bar SN="Me99e9z">
 		<fett>34.66</fett>
 		<energy>2731.15</energy>
 		<kolhydrat>8.59</kolhydrat>
@@ -5365,10 +5365,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</DAGRNBAR>
+	</bar>
 
 
-	<KEOEHBAR  SN="LZi2Hpg">
+	<bar SN="LZi2Hpg">
 		<fett>13.18</fett>
 		<energy>1919.99</energy>
 		<kolhydrat>40.97</kolhydrat>
@@ -5380,10 +5380,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</KEOEHBAR>
+	</bar>
 
 
-	<WBNCJBAR  SN="bkBrnaZ">
+	<bar SN="bkBrnaZ">
 		<fett>39.11</fett>
 		<energy>1898.53</energy>
 		<kolhydrat>4.85</kolhydrat>
@@ -5403,10 +5403,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</WBNCJBAR>
+	</bar>
 
 
-	<DYHSZBAR  SN="2i0Vo92">
+	<bar SN="2i0Vo92">
 		<fett>28.23</fett>
 		<energy>2662.3</energy>
 		<kolhydrat>23.23</kolhydrat>
@@ -5418,10 +5418,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</DYHSZBAR>
+	</bar>
 
 
-	<ARHBFBAR  SN="R4N3j11">
+	<bar SN="R4N3j11">
 		<fett>9.94</fett>
 		<energy>1326.48</energy>
 		<kolhydrat>8.01</kolhydrat>
@@ -5437,10 +5437,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</ARHBFBAR>
+	</bar>
 
 
-	<DKEYUBAR  SN="GTuplwc">
+	<bar SN="GTuplwc">
 		<fett>20.48</fett>
 		<energy>2917.81</energy>
 		<kolhydrat>43.88</kolhydrat>
@@ -5452,10 +5452,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DKEYUBAR>
+	</bar>
 
 
-	<WTSBDBAR  SN="6xG9Zx1">
+	<bar SN="6xG9Zx1">
 		<fett>14.83</fett>
 		<energy>2581.04</energy>
 		<kolhydrat>8.42</kolhydrat>
@@ -5479,10 +5479,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</WTSBDBAR>
+	</bar>
 
 
-	<SFMJKBAR  SN="HHtxDoM">
+	<bar SN="HHtxDoM">
 		<fett>12.38</fett>
 		<energy>2427.8</energy>
 		<kolhydrat>17.2</kolhydrat>
@@ -5506,10 +5506,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</SFMJKBAR>
+	</bar>
 
 
-	<GZZXJBAR  SN="0gNzldu">
+	<bar SN="0gNzldu">
 		<fett>3.66</fett>
 		<energy>2056.39</energy>
 		<kolhydrat>43.73</kolhydrat>
@@ -5525,10 +5525,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</GZZXJBAR>
+	</bar>
 
 
-	<XXKOOBAR  SN="aYnLd4K">
+	<bar SN="aYnLd4K">
 		<fett>28.02</fett>
 		<energy>2960.79</energy>
 		<kolhydrat>18.51</kolhydrat>
@@ -5548,10 +5548,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</XXKOOBAR>
+	</bar>
 
 
-	<QFJYBBAR  SN="AAzlrxf">
+	<bar SN="AAzlrxf">
 		<fett>43.45</fett>
 		<energy>2558.95</energy>
 		<kolhydrat>31.68</kolhydrat>
@@ -5575,10 +5575,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</QFJYBBAR>
+	</bar>
 
 
-	<OLDFKBAR  SN="kYUbJiO">
+	<bar SN="kYUbJiO">
 		<fett>10.13</fett>
 		<energy>1390.15</energy>
 		<kolhydrat>38.5</kolhydrat>
@@ -5590,10 +5590,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</OLDFKBAR>
+	</bar>
 
 
-	<EUYWKBAR  SN="0wXj5YG">
+	<bar SN="0wXj5YG">
 		<fett>36.82</fett>
 		<energy>2561.42</energy>
 		<kolhydrat>25.47</kolhydrat>
@@ -5621,10 +5621,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</EUYWKBAR>
+	</bar>
 
 
-	<HWDJZBAR  SN="yXWXnK7">
+	<bar SN="yXWXnK7">
 		<fett>5.28</fett>
 		<energy>1800.73</energy>
 		<kolhydrat>30.5</kolhydrat>
@@ -5652,10 +5652,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</HWDJZBAR>
+	</bar>
 
 
-	<MDUNMBAR  SN="nHpC4ky">
+	<bar SN="nHpC4ky">
 		<fett>33.82</fett>
 		<energy>2039.04</energy>
 		<kolhydrat>30.64</kolhydrat>
@@ -5675,10 +5675,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MDUNMBAR>
+	</bar>
 
 
-	<CTBYWBAR  SN="fy3Wqzx">
+	<bar SN="fy3Wqzx">
 		<fett>26.57</fett>
 		<energy>1641.07</energy>
 		<kolhydrat>34.03</kolhydrat>
@@ -5706,10 +5706,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</CTBYWBAR>
+	</bar>
 
 
-	<YYKSJBAR  SN="uqTC0DV">
+	<bar SN="uqTC0DV">
 		<fett>30.55</fett>
 		<energy>1134.59</energy>
 		<kolhydrat>39.05</kolhydrat>
@@ -5725,10 +5725,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</YYKSJBAR>
+	</bar>
 
 
-	<EASLJBAR  SN="Dg6J3Ex">
+	<bar SN="Dg6J3Ex">
 		<fett>42.73</fett>
 		<energy>1156.19</energy>
 		<kolhydrat>34.62</kolhydrat>
@@ -5736,10 +5736,10 @@
 		<fiber>29.2</fiber>
 		<review>
 		</review>
-	</EASLJBAR>
+	</bar>
 
 
-	<QYSRBBAR  SN="uEC8SCN">
+	<bar SN="uEC8SCN">
 		<fett>21.77</fett>
 		<energy>1815.09</energy>
 		<kolhydrat>9.49</kolhydrat>
@@ -5747,10 +5747,10 @@
 		<fiber>33.21</fiber>
 		<review>
 		</review>
-	</QYSRBBAR>
+	</bar>
 
 
-	<FIHZQBAR  SN="sI2Eyq9">
+	<bar SN="sI2Eyq9">
 		<fett>20.93</fett>
 		<energy>2589.39</energy>
 		<kolhydrat>40.45</kolhydrat>
@@ -5758,10 +5758,10 @@
 		<fiber>20.77</fiber>
 		<review>
 		</review>
-	</FIHZQBAR>
+	</bar>
 
 
-	<UYZVMBAR  SN="wgu4G7R">
+	<bar SN="wgu4G7R">
 		<fett>16.46</fett>
 		<energy>1500.34</energy>
 		<kolhydrat>5.78</kolhydrat>
@@ -5773,10 +5773,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</UYZVMBAR>
+	</bar>
 
 
-	<BLMFFBAR  SN="2YWNcoA">
+	<bar SN="2YWNcoA">
 		<fett>9.41</fett>
 		<energy>2922.11</energy>
 		<kolhydrat>4.22</kolhydrat>
@@ -5792,10 +5792,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</BLMFFBAR>
+	</bar>
 
 
-	<OGTLSBAR  SN="0O5QONM">
+	<bar SN="0O5QONM">
 		<fett>17.74</fett>
 		<energy>1209.28</energy>
 		<kolhydrat>32.56</kolhydrat>
@@ -5823,10 +5823,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</OGTLSBAR>
+	</bar>
 
 
-	<YCAVSBAR  SN="4AUMI1v">
+	<bar SN="4AUMI1v">
 		<fett>34.46</fett>
 		<energy>2764.88</energy>
 		<kolhydrat>19.09</kolhydrat>
@@ -5846,10 +5846,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</YCAVSBAR>
+	</bar>
 
 
-	<ZJPTPBAR  SN="6nYrC4D">
+	<bar SN="6nYrC4D">
 		<fett>33.34</fett>
 		<energy>2745.7</energy>
 		<kolhydrat>17.47</kolhydrat>
@@ -5877,10 +5877,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ZJPTPBAR>
+	</bar>
 
 
-	<YEVPEBAR  SN="VmAdFIe">
+	<bar SN="VmAdFIe">
 		<fett>6.51</fett>
 		<energy>1549.45</energy>
 		<kolhydrat>21.87</kolhydrat>
@@ -5896,10 +5896,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</YEVPEBAR>
+	</bar>
 
 
-	<DWPKPBAR  SN="6VAeNhZ">
+	<bar SN="6VAeNhZ">
 		<fett>11.07</fett>
 		<energy>1925.67</energy>
 		<kolhydrat>21.02</kolhydrat>
@@ -5919,10 +5919,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DWPKPBAR>
+	</bar>
 
 
-	<WIWOZBAR  SN="m14QVoc">
+	<bar SN="m14QVoc">
 		<fett>18.54</fett>
 		<energy>1538.18</energy>
 		<kolhydrat>10.72</kolhydrat>
@@ -5934,10 +5934,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</WIWOZBAR>
+	</bar>
 
 
-	<QVEFCBAR  SN="o76KJAp">
+	<bar SN="o76KJAp">
 		<fett>3.06</fett>
 		<energy>2528.26</energy>
 		<kolhydrat>5.92</kolhydrat>
@@ -5949,10 +5949,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</QVEFCBAR>
+	</bar>
 
 
-	<EQGUMBAR  SN="P1YUZbt">
+	<bar SN="P1YUZbt">
 		<fett>24.26</fett>
 		<energy>2299.21</energy>
 		<kolhydrat>37.42</kolhydrat>
@@ -5972,10 +5972,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</EQGUMBAR>
+	</bar>
 
 
-	<PQZZIBAR  SN="lb8WWF7">
+	<bar SN="lb8WWF7">
 		<fett>29.13</fett>
 		<energy>1314.18</energy>
 		<kolhydrat>10.95</kolhydrat>
@@ -5987,10 +5987,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</PQZZIBAR>
+	</bar>
 
 
-	<QKFPWBAR  SN="1wOJY9K">
+	<bar SN="1wOJY9K">
 		<fett>35.41</fett>
 		<energy>1470.32</energy>
 		<kolhydrat>44.43</kolhydrat>
@@ -6018,10 +6018,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</QKFPWBAR>
+	</bar>
 
 
-	<SMOYQBAR  SN="TpmQOCD">
+	<bar SN="TpmQOCD">
 		<fett>5.69</fett>
 		<energy>1181.64</energy>
 		<kolhydrat>4.59</kolhydrat>
@@ -6041,10 +6041,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SMOYQBAR>
+	</bar>
 
 
-	<NVJIRBAR  SN="1qcluVy">
+	<bar SN="1qcluVy">
 		<fett>33.57</fett>
 		<energy>2726.04</energy>
 		<kolhydrat>35.08</kolhydrat>
@@ -6060,10 +6060,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</NVJIRBAR>
+	</bar>
 
 
-	<MBHPVBAR  SN="HZAJNp8">
+	<bar SN="HZAJNp8">
 		<fett>3.05</fett>
 		<energy>1483.23</energy>
 		<kolhydrat>16.8</kolhydrat>
@@ -6079,10 +6079,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MBHPVBAR>
+	</bar>
 
 
-	<NRNLHBAR  SN="Nv6zZNQ">
+	<bar SN="Nv6zZNQ">
 		<fett>16.45</fett>
 		<energy>2689.34</energy>
 		<kolhydrat>35.35</kolhydrat>
@@ -6094,10 +6094,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</NRNLHBAR>
+	</bar>
 
 
-	<XDRCLBAR  SN="CPHOF8O">
+	<bar SN="CPHOF8O">
 		<fett>19.79</fett>
 		<energy>1782.89</energy>
 		<kolhydrat>31.69</kolhydrat>
@@ -6105,10 +6105,10 @@
 		<fiber>11.02</fiber>
 		<review>
 		</review>
-	</XDRCLBAR>
+	</bar>
 
 
-	<HOKRWBAR  SN="JWXI7ky">
+	<bar SN="JWXI7ky">
 		<fett>43.94</fett>
 		<energy>1380.16</energy>
 		<kolhydrat>40.05</kolhydrat>
@@ -6116,10 +6116,10 @@
 		<fiber>36.62</fiber>
 		<review>
 		</review>
-	</HOKRWBAR>
+	</bar>
 
 
-	<YDBUYBAR  SN="ZH6gHCY">
+	<bar SN="ZH6gHCY">
 		<fett>5.99</fett>
 		<energy>2181.7</energy>
 		<kolhydrat>3.19</kolhydrat>
@@ -6131,10 +6131,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</YDBUYBAR>
+	</bar>
 
 
-	<BUKSRBAR  SN="1kfaDwX">
+	<bar SN="1kfaDwX">
 		<fett>25.92</fett>
 		<energy>2771.36</energy>
 		<kolhydrat>23.17</kolhydrat>
@@ -6162,10 +6162,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</BUKSRBAR>
+	</bar>
 
 
-	<MXLVVBAR  SN="zx6jpyI">
+	<bar SN="zx6jpyI">
 		<fett>40.73</fett>
 		<energy>1138.87</energy>
 		<kolhydrat>13.38</kolhydrat>
@@ -6185,10 +6185,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</MXLVVBAR>
+	</bar>
 
 
-	<RSOYMBAR  SN="JjLMgor">
+	<bar SN="JjLMgor">
 		<fett>40.7</fett>
 		<energy>2209.8</energy>
 		<kolhydrat>32.56</kolhydrat>
@@ -6216,10 +6216,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</RSOYMBAR>
+	</bar>
 
 
-	<JFCTFBAR  SN="NYIz0GK">
+	<bar SN="NYIz0GK">
 		<fett>31.19</fett>
 		<energy>2225.31</energy>
 		<kolhydrat>8.73</kolhydrat>
@@ -6243,10 +6243,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</JFCTFBAR>
+	</bar>
 
 
-	<ZVIHCBAR  SN="w92ek1D">
+	<bar SN="w92ek1D">
 		<fett>13.66</fett>
 		<energy>2752.26</energy>
 		<kolhydrat>13.82</kolhydrat>
@@ -6254,10 +6254,10 @@
 		<fiber>6.54</fiber>
 		<review>
 		</review>
-	</ZVIHCBAR>
+	</bar>
 
 
-	<FQQVTBAR  SN="nhOT0FT">
+	<bar SN="nhOT0FT">
 		<fett>38.04</fett>
 		<energy>2469.33</energy>
 		<kolhydrat>9.92</kolhydrat>
@@ -6281,10 +6281,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</FQQVTBAR>
+	</bar>
 
 
-	<HQAHSBAR  SN="EZpmDaX">
+	<bar SN="EZpmDaX">
 		<fett>24.85</fett>
 		<energy>1916.8</energy>
 		<kolhydrat>31.53</kolhydrat>
@@ -6296,10 +6296,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HQAHSBAR>
+	</bar>
 
 
-	<SKEXDBAR  SN="x5N5q29">
+	<bar SN="x5N5q29">
 		<fett>2.27</fett>
 		<energy>2207.47</energy>
 		<kolhydrat>36.97</kolhydrat>
@@ -6315,10 +6315,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SKEXDBAR>
+	</bar>
 
 
-	<NNCWZBAR  SN="U7P2rxJ">
+	<bar SN="U7P2rxJ">
 		<fett>7.24</fett>
 		<energy>2916.42</energy>
 		<kolhydrat>2.49</kolhydrat>
@@ -6334,10 +6334,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</NNCWZBAR>
+	</bar>
 
 
-	<TKLRJBAR  SN="RO1vnQ1">
+	<bar SN="RO1vnQ1">
 		<fett>24.18</fett>
 		<energy>1966.22</energy>
 		<kolhydrat>29.49</kolhydrat>
@@ -6349,10 +6349,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</TKLRJBAR>
+	</bar>
 
 
-	<JNIJCBAR  SN="6NkGVlk">
+	<bar SN="6NkGVlk">
 		<fett>44.72</fett>
 		<energy>1789.5</energy>
 		<kolhydrat>19.06</kolhydrat>
@@ -6364,10 +6364,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</JNIJCBAR>
+	</bar>
 
 
-	<CZKHHBAR  SN="ncAUAa9">
+	<bar SN="ncAUAa9">
 		<fett>17.44</fett>
 		<energy>2457.41</energy>
 		<kolhydrat>29.99</kolhydrat>
@@ -6387,10 +6387,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</CZKHHBAR>
+	</bar>
 
 
-	<AHUFZBAR  SN="TZwt4gV">
+	<bar SN="TZwt4gV">
 		<fett>43.6</fett>
 		<energy>1896.46</energy>
 		<kolhydrat>29.58</kolhydrat>
@@ -6406,10 +6406,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</AHUFZBAR>
+	</bar>
 
 
-	<BRRLNBAR  SN="C7AJbk7">
+	<bar SN="C7AJbk7">
 		<fett>30.06</fett>
 		<energy>2365.17</energy>
 		<kolhydrat>39.48</kolhydrat>
@@ -6429,10 +6429,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</BRRLNBAR>
+	</bar>
 
 
-	<HLISPBAR  SN="BTKfweJ">
+	<bar SN="BTKfweJ">
 		<fett>37.17</fett>
 		<energy>2884.69</energy>
 		<kolhydrat>23.07</kolhydrat>
@@ -6456,10 +6456,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</HLISPBAR>
+	</bar>
 
 
-	<CQMDZBAR  SN="iowpWNB">
+	<bar SN="iowpWNB">
 		<fett>8.59</fett>
 		<energy>1784.55</energy>
 		<kolhydrat>16.79</kolhydrat>
@@ -6467,10 +6467,10 @@
 		<fiber>40.85</fiber>
 		<review>
 		</review>
-	</CQMDZBAR>
+	</bar>
 
 
-	<GCBGMBAR  SN="M92AREZ">
+	<bar SN="M92AREZ">
 		<fett>15.92</fett>
 		<energy>2998.26</energy>
 		<kolhydrat>30.52</kolhydrat>
@@ -6482,10 +6482,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</GCBGMBAR>
+	</bar>
 
 
-	<PIYKXBAR  SN="OQm5Avq">
+	<bar SN="OQm5Avq">
 		<fett>19.13</fett>
 		<energy>2005.11</energy>
 		<kolhydrat>11.67</kolhydrat>
@@ -6501,10 +6501,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</PIYKXBAR>
+	</bar>
 
 
-	<DKWUBBAR  SN="42KqYaV">
+	<bar SN="42KqYaV">
 		<fett>38.68</fett>
 		<energy>1080.1</energy>
 		<kolhydrat>44.56</kolhydrat>
@@ -6528,10 +6528,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DKWUBBAR>
+	</bar>
 
 
-	<ZMXCABAR  SN="EPjc6BR">
+	<bar SN="EPjc6BR">
 		<fett>29.76</fett>
 		<energy>2593.08</energy>
 		<kolhydrat>11.58</kolhydrat>
@@ -6543,10 +6543,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</ZMXCABAR>
+	</bar>
 
 
-	<WBZEOBAR  SN="S5HaCTn">
+	<bar SN="S5HaCTn">
 		<fett>20.37</fett>
 		<energy>2396.28</energy>
 		<kolhydrat>3.14</kolhydrat>
@@ -6574,10 +6574,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</WBZEOBAR>
+	</bar>
 
 
-	<PSOYVBAR  SN="i97aaQB">
+	<bar SN="i97aaQB">
 		<fett>17.65</fett>
 		<energy>2114.19</energy>
 		<kolhydrat>26.8</kolhydrat>
@@ -6605,10 +6605,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</PSOYVBAR>
+	</bar>
 
 
-	<ICUQVBAR  SN="z6CgLBY">
+	<bar SN="z6CgLBY">
 		<fett>23.25</fett>
 		<energy>2166.77</energy>
 		<kolhydrat>13.02</kolhydrat>
@@ -6632,10 +6632,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ICUQVBAR>
+	</bar>
 
 
-	<ELFDIBAR  SN="MYs06N1">
+	<bar SN="MYs06N1">
 		<fett>12.87</fett>
 		<energy>2229.74</energy>
 		<kolhydrat>37.01</kolhydrat>
@@ -6647,10 +6647,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</ELFDIBAR>
+	</bar>
 
 
-	<ISXQCBAR  SN="q7IFPZk">
+	<bar SN="q7IFPZk">
 		<fett>40.22</fett>
 		<energy>2305.11</energy>
 		<kolhydrat>6.04</kolhydrat>
@@ -6678,10 +6678,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ISXQCBAR>
+	</bar>
 
 
-	<YEFXVBAR  SN="dAy5Ek2">
+	<bar SN="dAy5Ek2">
 		<fett>42.8</fett>
 		<energy>1080.52</energy>
 		<kolhydrat>27.61</kolhydrat>
@@ -6709,10 +6709,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</YEFXVBAR>
+	</bar>
 
 
-	<QYQYFBAR  SN="hKDYR29">
+	<bar SN="hKDYR29">
 		<fett>43.25</fett>
 		<energy>2043.37</energy>
 		<kolhydrat>3.85</kolhydrat>
@@ -6736,10 +6736,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</QYQYFBAR>
+	</bar>
 
 
-	<SDLAKBAR  SN="nyVBZQh">
+	<bar SN="nyVBZQh">
 		<fett>28.79</fett>
 		<energy>2580.64</energy>
 		<kolhydrat>15.16</kolhydrat>
@@ -6767,10 +6767,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</SDLAKBAR>
+	</bar>
 
 
-	<NQPNPBAR  SN="hZb58z3">
+	<bar SN="hZb58z3">
 		<fett>43.33</fett>
 		<energy>1472.59</energy>
 		<kolhydrat>41.11</kolhydrat>
@@ -6778,10 +6778,10 @@
 		<fiber>38.9</fiber>
 		<review>
 		</review>
-	</NQPNPBAR>
+	</bar>
 
 
-	<DWRLFBAR  SN="1HD9ufH">
+	<bar SN="1HD9ufH">
 		<fett>10.4</fett>
 		<energy>1612.31</energy>
 		<kolhydrat>29.07</kolhydrat>
@@ -6789,10 +6789,10 @@
 		<fiber>8.63</fiber>
 		<review>
 		</review>
-	</DWRLFBAR>
+	</bar>
 
 
-	<VVRUMBAR  SN="GCSR2lG">
+	<bar SN="GCSR2lG">
 		<fett>14.76</fett>
 		<energy>1944.08</energy>
 		<kolhydrat>28.67</kolhydrat>
@@ -6804,10 +6804,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</VVRUMBAR>
+	</bar>
 
 
-	<PPGEVBAR  SN="vMMtMrh">
+	<bar SN="vMMtMrh">
 		<fett>29.62</fett>
 		<energy>1856.72</energy>
 		<kolhydrat>21.06</kolhydrat>
@@ -6831,10 +6831,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</PPGEVBAR>
+	</bar>
 
 
-	<XORWVBAR  SN="QCX1Q8W">
+	<bar SN="QCX1Q8W">
 		<fett>33.66</fett>
 		<energy>2963.42</energy>
 		<kolhydrat>28.35</kolhydrat>
@@ -6858,10 +6858,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</XORWVBAR>
+	</bar>
 
 
-	<LLFBRBAR  SN="wkVBLaO">
+	<bar SN="wkVBLaO">
 		<fett>43.87</fett>
 		<energy>1377.31</energy>
 		<kolhydrat>22.67</kolhydrat>
@@ -6873,10 +6873,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</LLFBRBAR>
+	</bar>
 
 
-	<IKIJCBAR  SN="6y3u0fQ">
+	<bar SN="6y3u0fQ">
 		<fett>41.43</fett>
 		<energy>1966.52</energy>
 		<kolhydrat>26.42</kolhydrat>
@@ -6904,10 +6904,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</IKIJCBAR>
+	</bar>
 
 
-	<JBSMSBAR  SN="anXfg62">
+	<bar SN="anXfg62">
 		<fett>36.68</fett>
 		<energy>1029.22</energy>
 		<kolhydrat>15.74</kolhydrat>
@@ -6915,10 +6915,10 @@
 		<fiber>34.58</fiber>
 		<review>
 		</review>
-	</JBSMSBAR>
+	</bar>
 
 
-	<VARUEBAR  SN="OpIoajc">
+	<bar SN="OpIoajc">
 		<fett>26.3</fett>
 		<energy>2223.65</energy>
 		<kolhydrat>37.45</kolhydrat>
@@ -6926,10 +6926,10 @@
 		<fiber>1.82</fiber>
 		<review>
 		</review>
-	</VARUEBAR>
+	</bar>
 
 
-	<OGMHHBAR  SN="DDPZMyf">
+	<bar SN="DDPZMyf">
 		<fett>1.5</fett>
 		<energy>2261.95</energy>
 		<kolhydrat>43.52</kolhydrat>
@@ -6953,10 +6953,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</OGMHHBAR>
+	</bar>
 
 
-	<FASGPBAR  SN="Jsqzt43">
+	<bar SN="Jsqzt43">
 		<fett>15.57</fett>
 		<energy>2382.64</energy>
 		<kolhydrat>28.47</kolhydrat>
@@ -6984,10 +6984,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</FASGPBAR>
+	</bar>
 
 
-	<YDBGKBAR  SN="PGMi8Kx">
+	<bar SN="PGMi8Kx">
 		<fett>9.64</fett>
 		<energy>2432.25</energy>
 		<kolhydrat>11.32</kolhydrat>
@@ -7015,10 +7015,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</YDBGKBAR>
+	</bar>
 
 
-	<JTUVIBAR  SN="xZWuQYg">
+	<bar SN="xZWuQYg">
 		<fett>7.23</fett>
 		<energy>1800.86</energy>
 		<kolhydrat>44.08</kolhydrat>
@@ -7046,10 +7046,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JTUVIBAR>
+	</bar>
 
 
-	<MUBVSBAR  SN="oIL5id0">
+	<bar SN="oIL5id0">
 		<fett>8.36</fett>
 		<energy>2102.0</energy>
 		<kolhydrat>44.74</kolhydrat>
@@ -7057,10 +7057,10 @@
 		<fiber>27.77</fiber>
 		<review>
 		</review>
-	</MUBVSBAR>
+	</bar>
 
 
-	<LRSNYBAR  SN="a8FNekv">
+	<bar SN="a8FNekv">
 		<fett>6.54</fett>
 		<energy>1738.7</energy>
 		<kolhydrat>42.72</kolhydrat>
@@ -7076,10 +7076,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LRSNYBAR>
+	</bar>
 
 
-	<PHCNKBAR  SN="2sSIsGP">
+	<bar SN="2sSIsGP">
 		<fett>25.88</fett>
 		<energy>1965.46</energy>
 		<kolhydrat>25.5</kolhydrat>
@@ -7099,10 +7099,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PHCNKBAR>
+	</bar>
 
 
-	<PWQCKBAR  SN="Mc5KMM5">
+	<bar SN="Mc5KMM5">
 		<fett>34.08</fett>
 		<energy>1328.09</energy>
 		<kolhydrat>14.65</kolhydrat>
@@ -7114,10 +7114,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</PWQCKBAR>
+	</bar>
 
 
-	<FNYAMBAR  SN="jPjkaVM">
+	<bar SN="jPjkaVM">
 		<fett>7.39</fett>
 		<energy>2338.67</energy>
 		<kolhydrat>35.52</kolhydrat>
@@ -7141,10 +7141,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</FNYAMBAR>
+	</bar>
 
 
-	<XFOCPBAR  SN="kbJNXI6">
+	<bar SN="kbJNXI6">
 		<fett>35.03</fett>
 		<energy>2397.03</energy>
 		<kolhydrat>24.58</kolhydrat>
@@ -7168,10 +7168,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</XFOCPBAR>
+	</bar>
 
 
-	<SHEITBAR  SN="LLwFwQf">
+	<bar SN="LLwFwQf">
 		<fett>22.85</fett>
 		<energy>1581.07</energy>
 		<kolhydrat>7.06</kolhydrat>
@@ -7187,10 +7187,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</SHEITBAR>
+	</bar>
 
 
-	<DZVDGBAR  SN="xxhC95c">
+	<bar SN="xxhC95c">
 		<fett>26.73</fett>
 		<energy>1763.96</energy>
 		<kolhydrat>5.18</kolhydrat>
@@ -7214,10 +7214,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DZVDGBAR>
+	</bar>
 
 
-	<KMUREBAR  SN="iKMkxDN">
+	<bar SN="iKMkxDN">
 		<fett>32.37</fett>
 		<energy>1361.66</energy>
 		<kolhydrat>18.06</kolhydrat>
@@ -7245,10 +7245,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</KMUREBAR>
+	</bar>
 
 
-	<MAIQFBAR  SN="gHH7E2a">
+	<bar SN="gHH7E2a">
 		<fett>7.0</fett>
 		<energy>2583.69</energy>
 		<kolhydrat>15.96</kolhydrat>
@@ -7264,10 +7264,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</MAIQFBAR>
+	</bar>
 
 
-	<RYYFYBAR  SN="RGVgJ91">
+	<bar SN="RGVgJ91">
 		<fett>1.75</fett>
 		<energy>2726.45</energy>
 		<kolhydrat>9.98</kolhydrat>
@@ -7287,10 +7287,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</RYYFYBAR>
+	</bar>
 
 
-	<RCQSYBAR  SN="WV7MQ34">
+	<bar SN="WV7MQ34">
 		<fett>34.48</fett>
 		<energy>1367.03</energy>
 		<kolhydrat>8.11</kolhydrat>
@@ -7306,10 +7306,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</RCQSYBAR>
+	</bar>
 
 
-	<MUSPFBAR  SN="aRDF5jH">
+	<bar SN="aRDF5jH">
 		<fett>5.0</fett>
 		<energy>2463.48</energy>
 		<kolhydrat>25.42</kolhydrat>
@@ -7333,10 +7333,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</MUSPFBAR>
+	</bar>
 
 
-	<JCWOSBAR  SN="hwTDjDV">
+	<bar SN="hwTDjDV">
 		<fett>29.89</fett>
 		<energy>1398.85</energy>
 		<kolhydrat>16.48</kolhydrat>
@@ -7360,10 +7360,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</JCWOSBAR>
+	</bar>
 
 
-	<DKJWUBAR  SN="Q7HFMOo">
+	<bar SN="Q7HFMOo">
 		<fett>40.58</fett>
 		<energy>1615.41</energy>
 		<kolhydrat>13.29</kolhydrat>
@@ -7371,10 +7371,10 @@
 		<fiber>25.21</fiber>
 		<review>
 		</review>
-	</DKJWUBAR>
+	</bar>
 
 
-	<LNSIRBAR  SN="nyc5juU">
+	<bar SN="nyc5juU">
 		<fett>33.92</fett>
 		<energy>1675.26</energy>
 		<kolhydrat>33.54</kolhydrat>
@@ -7398,10 +7398,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</LNSIRBAR>
+	</bar>
 
 
-	<YMHOOBAR  SN="rETGz1m">
+	<bar SN="rETGz1m">
 		<fett>12.7</fett>
 		<energy>1323.06</energy>
 		<kolhydrat>18.68</kolhydrat>
@@ -7429,10 +7429,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</YMHOOBAR>
+	</bar>
 
 
-	<UXJKWBAR  SN="1hrti3s">
+	<bar SN="1hrti3s">
 		<fett>9.25</fett>
 		<energy>2275.72</energy>
 		<kolhydrat>31.13</kolhydrat>
@@ -7456,10 +7456,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</UXJKWBAR>
+	</bar>
 
 
-	<IRPXQBAR  SN="gSV3LIp">
+	<bar SN="gSV3LIp">
 		<fett>8.5</fett>
 		<energy>2745.98</energy>
 		<kolhydrat>10.05</kolhydrat>
@@ -7479,10 +7479,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</IRPXQBAR>
+	</bar>
 
 
-	<CYCFBBAR  SN="4wLyN7P">
+	<bar SN="4wLyN7P">
 		<fett>35.09</fett>
 		<energy>1578.3</energy>
 		<kolhydrat>35.75</kolhydrat>
@@ -7506,10 +7506,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</CYCFBBAR>
+	</bar>
 
 
-	<DEXSXBAR  SN="0oXcLsF">
+	<bar SN="0oXcLsF">
 		<fett>1.51</fett>
 		<energy>2588.37</energy>
 		<kolhydrat>34.81</kolhydrat>
@@ -7525,10 +7525,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</DEXSXBAR>
+	</bar>
 
 
-	<RESWWBAR  SN="u549qBq">
+	<bar SN="u549qBq">
 		<fett>44.61</fett>
 		<energy>1770.33</energy>
 		<kolhydrat>36.0</kolhydrat>
@@ -7556,10 +7556,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</RESWWBAR>
+	</bar>
 
 
-	<UXJKVBAR  SN="TZOD1nt">
+	<bar SN="TZOD1nt">
 		<fett>12.02</fett>
 		<energy>2498.61</energy>
 		<kolhydrat>37.95</kolhydrat>
@@ -7575,10 +7575,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</UXJKVBAR>
+	</bar>
 
 
-	<RKBXABAR  SN="Foe52bt">
+	<bar SN="Foe52bt">
 		<fett>35.63</fett>
 		<energy>1480.28</energy>
 		<kolhydrat>18.09</kolhydrat>
@@ -7606,10 +7606,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</RKBXABAR>
+	</bar>
 
 
-	<ZZFTNBAR  SN="ft6nYu4">
+	<bar SN="ft6nYu4">
 		<fett>32.15</fett>
 		<energy>2666.7</energy>
 		<kolhydrat>3.13</kolhydrat>
@@ -7621,10 +7621,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZZFTNBAR>
+	</bar>
 
 
-	<ZLEBEBAR  SN="7Q1sjWP">
+	<bar SN="7Q1sjWP">
 		<fett>7.71</fett>
 		<energy>2807.87</energy>
 		<kolhydrat>37.62</kolhydrat>
@@ -7640,10 +7640,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ZLEBEBAR>
+	</bar>
 
 
-	<BFKSQBAR  SN="Po3qzV5">
+	<bar SN="Po3qzV5">
 		<fett>29.85</fett>
 		<energy>1427.73</energy>
 		<kolhydrat>39.09</kolhydrat>
@@ -7663,10 +7663,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</BFKSQBAR>
+	</bar>
 
 
-	<NIEOJBAR  SN="OZ21WXj">
+	<bar SN="OZ21WXj">
 		<fett>16.08</fett>
 		<energy>1313.57</energy>
 		<kolhydrat>16.76</kolhydrat>
@@ -7694,10 +7694,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</NIEOJBAR>
+	</bar>
 
 
-	<GRSEYBAR  SN="v5iMzkn">
+	<bar SN="v5iMzkn">
 		<fett>30.01</fett>
 		<energy>2203.42</energy>
 		<kolhydrat>13.63</kolhydrat>
@@ -7725,10 +7725,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</GRSEYBAR>
+	</bar>
 
 
-	<ACQGIBAR  SN="eoh2Bhf">
+	<bar SN="eoh2Bhf">
 		<fett>33.42</fett>
 		<energy>2948.5</energy>
 		<kolhydrat>4.37</kolhydrat>
@@ -7744,10 +7744,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ACQGIBAR>
+	</bar>
 
 
-	<PUTJRBAR  SN="sQg4MEh">
+	<bar SN="sQg4MEh">
 		<fett>30.49</fett>
 		<energy>1641.4</energy>
 		<kolhydrat>4.5</kolhydrat>
@@ -7755,10 +7755,10 @@
 		<fiber>20.52</fiber>
 		<review>
 		</review>
-	</PUTJRBAR>
+	</bar>
 
 
-	<QQBETBAR  SN="EKStVR3">
+	<bar SN="EKStVR3">
 		<fett>4.47</fett>
 		<energy>2933.6</energy>
 		<kolhydrat>42.53</kolhydrat>
@@ -7766,10 +7766,10 @@
 		<fiber>33.86</fiber>
 		<review>
 		</review>
-	</QQBETBAR>
+	</bar>
 
 
-	<LWCJFBAR  SN="UoolYjD">
+	<bar SN="UoolYjD">
 		<fett>26.72</fett>
 		<energy>2811.65</energy>
 		<kolhydrat>11.0</kolhydrat>
@@ -7797,10 +7797,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LWCJFBAR>
+	</bar>
 
 
-	<HVYRVBAR  SN="vg31a4Z">
+	<bar SN="vg31a4Z">
 		<fett>26.07</fett>
 		<energy>2110.39</energy>
 		<kolhydrat>9.06</kolhydrat>
@@ -7812,10 +7812,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</HVYRVBAR>
+	</bar>
 
 
-	<ZECQKBAR  SN="OjwFqZC">
+	<bar SN="OjwFqZC">
 		<fett>29.57</fett>
 		<energy>1166.12</energy>
 		<kolhydrat>40.52</kolhydrat>
@@ -7843,10 +7843,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ZECQKBAR>
+	</bar>
 
 
-	<RGCABBAR  SN="bpKxRnG">
+	<bar SN="bpKxRnG">
 		<fett>6.79</fett>
 		<energy>1303.1</energy>
 		<kolhydrat>19.76</kolhydrat>
@@ -7870,10 +7870,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</RGCABBAR>
+	</bar>
 
 
-	<VLFSTBAR  SN="WOsV5WK">
+	<bar SN="WOsV5WK">
 		<fett>6.71</fett>
 		<energy>2396.68</energy>
 		<kolhydrat>9.36</kolhydrat>
@@ -7897,10 +7897,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</VLFSTBAR>
+	</bar>
 
 
-	<LEHAQBAR  SN="SZmTZPV">
+	<bar SN="SZmTZPV">
 		<fett>31.24</fett>
 		<energy>1407.12</energy>
 		<kolhydrat>26.16</kolhydrat>
@@ -7928,10 +7928,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</LEHAQBAR>
+	</bar>
 
 
-	<USEWNBAR  SN="o24jks9">
+	<bar SN="o24jks9">
 		<fett>24.96</fett>
 		<energy>2708.97</energy>
 		<kolhydrat>8.84</kolhydrat>
@@ -7955,10 +7955,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</USEWNBAR>
+	</bar>
 
 
-	<GOOGPBAR  SN="DtUUKA7">
+	<bar SN="DtUUKA7">
 		<fett>4.4</fett>
 		<energy>1311.34</energy>
 		<kolhydrat>19.85</kolhydrat>
@@ -7986,10 +7986,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</GOOGPBAR>
+	</bar>
 
 
-	<XFYXMBAR  SN="TlHErtI">
+	<bar SN="TlHErtI">
 		<fett>3.24</fett>
 		<energy>1644.38</energy>
 		<kolhydrat>9.15</kolhydrat>
@@ -7997,10 +7997,10 @@
 		<fiber>14.52</fiber>
 		<review>
 		</review>
-	</XFYXMBAR>
+	</bar>
 
 
-	<EGITJBAR  SN="IpwxdSv">
+	<bar SN="IpwxdSv">
 		<fett>37.17</fett>
 		<energy>1518.25</energy>
 		<kolhydrat>7.68</kolhydrat>
@@ -8024,10 +8024,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</EGITJBAR>
+	</bar>
 
 
-	<CNAYWBAR  SN="MTQdceq">
+	<bar SN="MTQdceq">
 		<fett>40.71</fett>
 		<energy>1004.04</energy>
 		<kolhydrat>39.49</kolhydrat>
@@ -8047,10 +8047,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</CNAYWBAR>
+	</bar>
 
 
-	<AYXRMBAR  SN="icTPiTm">
+	<bar SN="icTPiTm">
 		<fett>44.96</fett>
 		<energy>1268.47</energy>
 		<kolhydrat>32.76</kolhydrat>
@@ -8070,10 +8070,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</AYXRMBAR>
+	</bar>
 
 
-	<KGRCLBAR  SN="90yANbt">
+	<bar SN="90yANbt">
 		<fett>20.64</fett>
 		<energy>2914.08</energy>
 		<kolhydrat>41.38</kolhydrat>
@@ -8081,10 +8081,10 @@
 		<fiber>40.87</fiber>
 		<review>
 		</review>
-	</KGRCLBAR>
+	</bar>
 
 
-	<LXCEKBAR  SN="WrOJ61s">
+	<bar SN="WrOJ61s">
 		<fett>2.09</fett>
 		<energy>1335.36</energy>
 		<kolhydrat>39.3</kolhydrat>
@@ -8100,10 +8100,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</LXCEKBAR>
+	</bar>
 
 
-	<CTXAGBAR  SN="t0zZbpp">
+	<bar SN="t0zZbpp">
 		<fett>25.61</fett>
 		<energy>1987.0</energy>
 		<kolhydrat>16.66</kolhydrat>
@@ -8111,10 +8111,10 @@
 		<fiber>33.54</fiber>
 		<review>
 		</review>
-	</CTXAGBAR>
+	</bar>
 
 
-	<SRPEQBAR  SN="IB7PbUk">
+	<bar SN="IB7PbUk">
 		<fett>2.21</fett>
 		<energy>2870.23</energy>
 		<kolhydrat>19.18</kolhydrat>
@@ -8126,10 +8126,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</SRPEQBAR>
+	</bar>
 
 
-	<NEXUNBAR  SN="IYJXpAS">
+	<bar SN="IYJXpAS">
 		<fett>3.66</fett>
 		<energy>2176.91</energy>
 		<kolhydrat>8.16</kolhydrat>
@@ -8153,10 +8153,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</NEXUNBAR>
+	</bar>
 
 
-	<RLEUWBAR  SN="PTWkp9e">
+	<bar SN="PTWkp9e">
 		<fett>44.57</fett>
 		<energy>2312.52</energy>
 		<kolhydrat>41.78</kolhydrat>
@@ -8176,10 +8176,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</RLEUWBAR>
+	</bar>
 
 
-	<DKAWDBAR  SN="sLYq212">
+	<bar SN="sLYq212">
 		<fett>2.84</fett>
 		<energy>2962.32</energy>
 		<kolhydrat>19.83</kolhydrat>
@@ -8191,10 +8191,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DKAWDBAR>
+	</bar>
 
 
-	<KBBGNBAR  SN="JrcTmi0">
+	<bar SN="JrcTmi0">
 		<fett>22.04</fett>
 		<energy>1916.13</energy>
 		<kolhydrat>17.55</kolhydrat>
@@ -8214,10 +8214,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</KBBGNBAR>
+	</bar>
 
 
-	<WAOWMBAR  SN="PABSHbL">
+	<bar SN="PABSHbL">
 		<fett>9.58</fett>
 		<energy>2624.49</energy>
 		<kolhydrat>32.86</kolhydrat>
@@ -8245,10 +8245,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</WAOWMBAR>
+	</bar>
 
 
-	<AAQCJBAR  SN="Ud0AtTy">
+	<bar SN="Ud0AtTy">
 		<fett>44.61</fett>
 		<energy>1281.98</energy>
 		<kolhydrat>17.81</kolhydrat>
@@ -8264,10 +8264,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</AAQCJBAR>
+	</bar>
 
 
-	<XRILVBAR  SN="2N25Pv6">
+	<bar SN="2N25Pv6">
 		<fett>34.77</fett>
 		<energy>1156.4</energy>
 		<kolhydrat>39.35</kolhydrat>
@@ -8287,10 +8287,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</XRILVBAR>
+	</bar>
 
 
-	<GAATHBAR  SN="WOilOhy">
+	<bar SN="WOilOhy">
 		<fett>37.36</fett>
 		<energy>1311.65</energy>
 		<kolhydrat>13.13</kolhydrat>
@@ -8318,10 +8318,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</GAATHBAR>
+	</bar>
 
 
-	<JTPRSBAR  SN="doe8p7E">
+	<bar SN="doe8p7E">
 		<fett>21.2</fett>
 		<energy>2532.44</energy>
 		<kolhydrat>35.37</kolhydrat>
@@ -8333,10 +8333,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</JTPRSBAR>
+	</bar>
 
 
-	<CJVSYBAR  SN="qXUioLl">
+	<bar SN="qXUioLl">
 		<fett>36.05</fett>
 		<energy>2935.19</energy>
 		<kolhydrat>35.8</kolhydrat>
@@ -8352,10 +8352,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</CJVSYBAR>
+	</bar>
 
 
-	<QBHERBAR  SN="nzjLszH">
+	<bar SN="nzjLszH">
 		<fett>43.95</fett>
 		<energy>2722.3</energy>
 		<kolhydrat>15.6</kolhydrat>
@@ -8371,10 +8371,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</QBHERBAR>
+	</bar>
 
 
-	<DBMMLBAR  SN="cDBJGio">
+	<bar SN="cDBJGio">
 		<fett>3.32</fett>
 		<energy>1834.24</energy>
 		<kolhydrat>25.6</kolhydrat>
@@ -8390,10 +8390,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</DBMMLBAR>
+	</bar>
 
 
-	<AXVSXBAR  SN="cMYnhDs">
+	<bar SN="cMYnhDs">
 		<fett>17.54</fett>
 		<energy>2316.34</energy>
 		<kolhydrat>32.29</kolhydrat>
@@ -8405,10 +8405,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</AXVSXBAR>
+	</bar>
 
 
-	<JFYMOBAR  SN="mbESXbM">
+	<bar SN="mbESXbM">
 		<fett>11.66</fett>
 		<energy>2875.09</energy>
 		<kolhydrat>34.11</kolhydrat>
@@ -8424,10 +8424,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JFYMOBAR>
+	</bar>
 
 
-	<BAZIVBAR  SN="cno4qHc">
+	<bar SN="cno4qHc">
 		<fett>21.58</fett>
 		<energy>2182.19</energy>
 		<kolhydrat>42.61</kolhydrat>
@@ -8443,10 +8443,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</BAZIVBAR>
+	</bar>
 
 
-	<BWICSBAR  SN="GZLSdnG">
+	<bar SN="GZLSdnG">
 		<fett>29.89</fett>
 		<energy>2770.41</energy>
 		<kolhydrat>40.86</kolhydrat>
@@ -8462,10 +8462,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</BWICSBAR>
+	</bar>
 
 
-	<JVDVNBAR  SN="97xQhA4">
+	<bar SN="97xQhA4">
 		<fett>24.43</fett>
 		<energy>1924.63</energy>
 		<kolhydrat>39.27</kolhydrat>
@@ -8481,10 +8481,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</JVDVNBAR>
+	</bar>
 
 
-	<EYWAIBAR  SN="JrouPkI">
+	<bar SN="JrouPkI">
 		<fett>33.67</fett>
 		<energy>2410.26</energy>
 		<kolhydrat>28.67</kolhydrat>
@@ -8508,10 +8508,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</EYWAIBAR>
+	</bar>
 
 
-	<SYBXTBAR  SN="xlfAvza">
+	<bar SN="xlfAvza">
 		<fett>28.05</fett>
 		<energy>2080.1</energy>
 		<kolhydrat>25.09</kolhydrat>
@@ -8539,10 +8539,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</SYBXTBAR>
+	</bar>
 
 
-	<YKWQGBAR  SN="kcNEB8E">
+	<bar SN="kcNEB8E">
 		<fett>7.33</fett>
 		<energy>2886.17</energy>
 		<kolhydrat>36.15</kolhydrat>
@@ -8570,10 +8570,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</YKWQGBAR>
+	</bar>
 
 
-	<DOLJGBAR  SN="nhHwLtO">
+	<bar SN="nhHwLtO">
 		<fett>32.43</fett>
 		<energy>1396.76</energy>
 		<kolhydrat>7.39</kolhydrat>
@@ -8593,10 +8593,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</DOLJGBAR>
+	</bar>
 
 
-	<WFGLLBAR  SN="LdpHNh4">
+	<bar SN="LdpHNh4">
 		<fett>13.85</fett>
 		<energy>2314.18</energy>
 		<kolhydrat>42.84</kolhydrat>
@@ -8612,10 +8612,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</WFGLLBAR>
+	</bar>
 
 
-	<BPQKUBAR  SN="waehaaq">
+	<bar SN="waehaaq">
 		<fett>43.6</fett>
 		<energy>1678.48</energy>
 		<kolhydrat>33.56</kolhydrat>
@@ -8631,10 +8631,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</BPQKUBAR>
+	</bar>
 
 
-	<OELRIBAR  SN="57s99TR">
+	<bar SN="57s99TR">
 		<fett>37.92</fett>
 		<energy>1527.83</energy>
 		<kolhydrat>33.51</kolhydrat>
@@ -8662,10 +8662,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</OELRIBAR>
+	</bar>
 
 
-	<BSGZIBAR  SN="JvDUCXo">
+	<bar SN="JvDUCXo">
 		<fett>6.05</fett>
 		<energy>2690.11</energy>
 		<kolhydrat>26.37</kolhydrat>
@@ -8677,10 +8677,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</BSGZIBAR>
+	</bar>
 
 
-	<HSOYYBAR  SN="J7IadJD">
+	<bar SN="J7IadJD">
 		<fett>19.67</fett>
 		<energy>2124.05</energy>
 		<kolhydrat>38.64</kolhydrat>
@@ -8692,10 +8692,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</HSOYYBAR>
+	</bar>
 
 
-	<OUQVPBAR  SN="Cb4MJYm">
+	<bar SN="Cb4MJYm">
 		<fett>23.15</fett>
 		<energy>2151.43</energy>
 		<kolhydrat>5.78</kolhydrat>
@@ -8711,10 +8711,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</OUQVPBAR>
+	</bar>
 
 
-	<DVUTLBAR  SN="lKbwfWk">
+	<bar SN="lKbwfWk">
 		<fett>25.72</fett>
 		<energy>2003.59</energy>
 		<kolhydrat>17.89</kolhydrat>
@@ -8730,10 +8730,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DVUTLBAR>
+	</bar>
 
 
-	<PXXEOBAR  SN="3HKOGxa">
+	<bar SN="3HKOGxa">
 		<fett>41.53</fett>
 		<energy>2764.59</energy>
 		<kolhydrat>8.23</kolhydrat>
@@ -8761,10 +8761,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</PXXEOBAR>
+	</bar>
 
 
-	<NKNHGBAR  SN="CviMJ56">
+	<bar SN="CviMJ56">
 		<fett>5.61</fett>
 		<energy>1029.11</energy>
 		<kolhydrat>9.64</kolhydrat>
@@ -8780,10 +8780,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</NKNHGBAR>
+	</bar>
 
 
-	<URBUCBAR  SN="llO8Pz0">
+	<bar SN="llO8Pz0">
 		<fett>29.52</fett>
 		<energy>2539.36</energy>
 		<kolhydrat>33.91</kolhydrat>
@@ -8803,10 +8803,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</URBUCBAR>
+	</bar>
 
 
-	<LHAYFBAR  SN="RKp33kh">
+	<bar SN="RKp33kh">
 		<fett>33.34</fett>
 		<energy>2465.51</energy>
 		<kolhydrat>41.83</kolhydrat>
@@ -8814,10 +8814,10 @@
 		<fiber>16.96</fiber>
 		<review>
 		</review>
-	</LHAYFBAR>
+	</bar>
 
 
-	<WLXPHBAR  SN="eYyekmr">
+	<bar SN="eYyekmr">
 		<fett>24.08</fett>
 		<energy>2199.34</energy>
 		<kolhydrat>22.62</kolhydrat>
@@ -8845,10 +8845,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</WLXPHBAR>
+	</bar>
 
 
-	<SXWYGBAR  SN="hgUIXwM">
+	<bar SN="hgUIXwM">
 		<fett>42.02</fett>
 		<energy>1625.14</energy>
 		<kolhydrat>37.02</kolhydrat>
@@ -8860,10 +8860,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</SXWYGBAR>
+	</bar>
 
 
-	<BXBFCBAR  SN="dmY7MTk">
+	<bar SN="dmY7MTk">
 		<fett>6.94</fett>
 		<energy>1407.86</energy>
 		<kolhydrat>44.98</kolhydrat>
@@ -8887,10 +8887,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</BXBFCBAR>
+	</bar>
 
 
-	<FDUTWBAR  SN="H1OyaGK">
+	<bar SN="H1OyaGK">
 		<fett>41.47</fett>
 		<energy>2031.57</energy>
 		<kolhydrat>35.61</kolhydrat>
@@ -8906,10 +8906,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</FDUTWBAR>
+	</bar>
 
 
-	<XWNCGBAR  SN="WNNvUz0">
+	<bar SN="WNNvUz0">
 		<fett>36.29</fett>
 		<energy>1125.31</energy>
 		<kolhydrat>2.16</kolhydrat>
@@ -8917,10 +8917,10 @@
 		<fiber>42.32</fiber>
 		<review>
 		</review>
-	</XWNCGBAR>
+	</bar>
 
 
-	<NHCYEBAR  SN="C9QEsU4">
+	<bar SN="C9QEsU4">
 		<fett>2.65</fett>
 		<energy>2655.48</energy>
 		<kolhydrat>3.5</kolhydrat>
@@ -8948,10 +8948,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</NHCYEBAR>
+	</bar>
 
 
-	<RAFUSBAR  SN="tOoaUXX">
+	<bar SN="tOoaUXX">
 		<fett>34.29</fett>
 		<energy>2365.85</energy>
 		<kolhydrat>17.83</kolhydrat>
@@ -8979,10 +8979,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</RAFUSBAR>
+	</bar>
 
 
-	<ZMYOYBAR  SN="IfCkqXI">
+	<bar SN="IfCkqXI">
 		<fett>3.42</fett>
 		<energy>1041.29</energy>
 		<kolhydrat>42.14</kolhydrat>
@@ -8990,10 +8990,10 @@
 		<fiber>22.96</fiber>
 		<review>
 		</review>
-	</ZMYOYBAR>
+	</bar>
 
 
-	<FQITBBAR  SN="RGHTMFg">
+	<bar SN="RGHTMFg">
 		<fett>40.61</fett>
 		<energy>2525.65</energy>
 		<kolhydrat>33.64</kolhydrat>
@@ -9009,10 +9009,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</FQITBBAR>
+	</bar>
 
 
-	<RWAMEBAR  SN="ukYBvCw">
+	<bar SN="ukYBvCw">
 		<fett>42.2</fett>
 		<energy>2642.57</energy>
 		<kolhydrat>25.62</kolhydrat>
@@ -9020,10 +9020,10 @@
 		<fiber>31.21</fiber>
 		<review>
 		</review>
-	</RWAMEBAR>
+	</bar>
 
 
-	<JRYFYBAR  SN="O3gbTdq">
+	<bar SN="O3gbTdq">
 		<fett>44.06</fett>
 		<energy>2099.61</energy>
 		<kolhydrat>20.2</kolhydrat>
@@ -9035,10 +9035,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</JRYFYBAR>
+	</bar>
 
 
-	<XDAXIBAR  SN="NGTpc5j">
+	<bar SN="NGTpc5j">
 		<fett>37.99</fett>
 		<energy>2214.78</energy>
 		<kolhydrat>17.32</kolhydrat>
@@ -9062,10 +9062,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</XDAXIBAR>
+	</bar>
 
 
-	<JICBEBAR  SN="RSYPHhK">
+	<bar SN="RSYPHhK">
 		<fett>15.92</fett>
 		<energy>1112.59</energy>
 		<kolhydrat>13.52</kolhydrat>
@@ -9085,10 +9085,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</JICBEBAR>
+	</bar>
 
 
-	<LXYRTBAR  SN="gSIhIsv">
+	<bar SN="gSIhIsv">
 		<fett>32.1</fett>
 		<energy>2357.65</energy>
 		<kolhydrat>6.54</kolhydrat>
@@ -9112,10 +9112,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LXYRTBAR>
+	</bar>
 
 
-	<GHXAKBAR  SN="nNtsd8b">
+	<bar SN="nNtsd8b">
 		<fett>42.82</fett>
 		<energy>2102.31</energy>
 		<kolhydrat>2.16</kolhydrat>
@@ -9123,10 +9123,10 @@
 		<fiber>6.44</fiber>
 		<review>
 		</review>
-	</GHXAKBAR>
+	</bar>
 
 
-	<FTUQMBAR  SN="qCCHYSV">
+	<bar SN="qCCHYSV">
 		<fett>31.15</fett>
 		<energy>2152.02</energy>
 		<kolhydrat>9.7</kolhydrat>
@@ -9154,10 +9154,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</FTUQMBAR>
+	</bar>
 
 
-	<CUOMSBAR  SN="k2q6ywz">
+	<bar SN="k2q6ywz">
 		<fett>34.52</fett>
 		<energy>1307.05</energy>
 		<kolhydrat>34.85</kolhydrat>
@@ -9181,10 +9181,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</CUOMSBAR>
+	</bar>
 
 
-	<CHRIBBAR  SN="ZkBRD3s">
+	<bar SN="ZkBRD3s">
 		<fett>8.0</fett>
 		<energy>2865.32</energy>
 		<kolhydrat>15.3</kolhydrat>
@@ -9208,10 +9208,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</CHRIBBAR>
+	</bar>
 
 
-	<UGHHCBAR  SN="DpMfvbZ">
+	<bar SN="DpMfvbZ">
 		<fett>23.78</fett>
 		<energy>2714.7</energy>
 		<kolhydrat>31.63</kolhydrat>
@@ -9227,10 +9227,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</UGHHCBAR>
+	</bar>
 
 
-	<KHSRLBAR  SN="Avur4Sw">
+	<bar SN="Avur4Sw">
 		<fett>7.24</fett>
 		<energy>1489.85</energy>
 		<kolhydrat>41.39</kolhydrat>
@@ -9250,10 +9250,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</KHSRLBAR>
+	</bar>
 
 
-	<DRJNFBAR  SN="Z1rzONu">
+	<bar SN="Z1rzONu">
 		<fett>6.17</fett>
 		<energy>2234.67</energy>
 		<kolhydrat>34.01</kolhydrat>
@@ -9269,10 +9269,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</DRJNFBAR>
+	</bar>
 
 
-	<JCEZYBAR  SN="T5nQLVa">
+	<bar SN="T5nQLVa">
 		<fett>38.11</fett>
 		<energy>2697.43</energy>
 		<kolhydrat>31.7</kolhydrat>
@@ -9292,10 +9292,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</JCEZYBAR>
+	</bar>
 
 
-	<EDMAWBAR  SN="EZKlMwU">
+	<bar SN="EZKlMwU">
 		<fett>17.69</fett>
 		<energy>2407.26</energy>
 		<kolhydrat>16.51</kolhydrat>
@@ -9319,10 +9319,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</EDMAWBAR>
+	</bar>
 
 
-	<YMCIHBAR  SN="2amdRQ6">
+	<bar SN="2amdRQ6">
 		<fett>13.14</fett>
 		<energy>2859.63</energy>
 		<kolhydrat>38.81</kolhydrat>
@@ -9338,10 +9338,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</YMCIHBAR>
+	</bar>
 
 
-	<EKLTUBAR  SN="SJyw3ei">
+	<bar SN="SJyw3ei">
 		<fett>7.19</fett>
 		<energy>2064.03</energy>
 		<kolhydrat>11.35</kolhydrat>
@@ -9361,10 +9361,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</EKLTUBAR>
+	</bar>
 
 
-	<YBLPABAR  SN="REFgxAk">
+	<bar SN="REFgxAk">
 		<fett>6.54</fett>
 		<energy>1763.48</energy>
 		<kolhydrat>28.69</kolhydrat>
@@ -9376,10 +9376,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</YBLPABAR>
+	</bar>
 
 
-	<DBMOVBAR  SN="J5lbUMW">
+	<bar SN="J5lbUMW">
 		<fett>7.51</fett>
 		<energy>1767.46</energy>
 		<kolhydrat>11.26</kolhydrat>
@@ -9399,10 +9399,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</DBMOVBAR>
+	</bar>
 
 
-	<FKEDGBAR  SN="InlXrEr">
+	<bar SN="InlXrEr">
 		<fett>24.67</fett>
 		<energy>2322.05</energy>
 		<kolhydrat>16.99</kolhydrat>
@@ -9414,10 +9414,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</FKEDGBAR>
+	</bar>
 
 
-	<CHASKBAR  SN="nQqyOtX">
+	<bar SN="nQqyOtX">
 		<fett>40.7</fett>
 		<energy>2371.85</energy>
 		<kolhydrat>12.54</kolhydrat>
@@ -9425,10 +9425,10 @@
 		<fiber>2.79</fiber>
 		<review>
 		</review>
-	</CHASKBAR>
+	</bar>
 
 
-	<ADAYBBAR  SN="GUHLB1a">
+	<bar SN="GUHLB1a">
 		<fett>16.9</fett>
 		<energy>2028.4</energy>
 		<kolhydrat>22.72</kolhydrat>
@@ -9448,10 +9448,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ADAYBBAR>
+	</bar>
 
 
-	<TVESSBAR  SN="UvIKDx9">
+	<bar SN="UvIKDx9">
 		<fett>34.85</fett>
 		<energy>1023.92</energy>
 		<kolhydrat>32.2</kolhydrat>
@@ -9479,10 +9479,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</TVESSBAR>
+	</bar>
 
 
-	<CNJGIBAR  SN="8B9vMTJ">
+	<bar SN="8B9vMTJ">
 		<fett>21.66</fett>
 		<energy>1148.84</energy>
 		<kolhydrat>32.73</kolhydrat>
@@ -9498,10 +9498,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</CNJGIBAR>
+	</bar>
 
 
-	<LHPZMBAR  SN="3Jf0LeK">
+	<bar SN="3Jf0LeK">
 		<fett>41.71</fett>
 		<energy>2164.53</energy>
 		<kolhydrat>31.59</kolhydrat>
@@ -9521,10 +9521,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LHPZMBAR>
+	</bar>
 
 
-	<CXNMWBAR  SN="QWg8Kq9">
+	<bar SN="QWg8Kq9">
 		<fett>17.36</fett>
 		<energy>2414.69</energy>
 		<kolhydrat>12.08</kolhydrat>
@@ -9532,10 +9532,10 @@
 		<fiber>39.9</fiber>
 		<review>
 		</review>
-	</CXNMWBAR>
+	</bar>
 
 
-	<OZMMUBAR  SN="eTi1gSV">
+	<bar SN="eTi1gSV">
 		<fett>40.91</fett>
 		<energy>2203.6</energy>
 		<kolhydrat>3.05</kolhydrat>
@@ -9563,10 +9563,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</OZMMUBAR>
+	</bar>
 
 
-	<FXTMIBAR  SN="aujvgZb">
+	<bar SN="aujvgZb">
 		<fett>7.65</fett>
 		<energy>2305.79</energy>
 		<kolhydrat>18.4</kolhydrat>
@@ -9594,10 +9594,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</FXTMIBAR>
+	</bar>
 
 
-	<CMMDIBAR  SN="6EB1VFQ">
+	<bar SN="6EB1VFQ">
 		<fett>21.72</fett>
 		<energy>1113.67</energy>
 		<kolhydrat>35.45</kolhydrat>
@@ -9617,10 +9617,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</CMMDIBAR>
+	</bar>
 
 
-	<AGWCTBAR  SN="zRL8MGG">
+	<bar SN="zRL8MGG">
 		<fett>14.94</fett>
 		<energy>2500.71</energy>
 		<kolhydrat>2.68</kolhydrat>
@@ -9628,10 +9628,10 @@
 		<fiber>19.69</fiber>
 		<review>
 		</review>
-	</AGWCTBAR>
+	</bar>
 
 
-	<HEAHZBAR  SN="IFRbbgy">
+	<bar SN="IFRbbgy">
 		<fett>44.43</fett>
 		<energy>1168.08</energy>
 		<kolhydrat>43.99</kolhydrat>
@@ -9659,10 +9659,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</HEAHZBAR>
+	</bar>
 
 
-	<JIFBRBAR  SN="vxzpUjC">
+	<bar SN="vxzpUjC">
 		<fett>23.06</fett>
 		<energy>2459.58</energy>
 		<kolhydrat>20.39</kolhydrat>
@@ -9682,10 +9682,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JIFBRBAR>
+	</bar>
 
 
-	<LAIYVBAR  SN="2mj5HrI">
+	<bar SN="2mj5HrI">
 		<fett>44.82</fett>
 		<energy>1331.29</energy>
 		<kolhydrat>43.71</kolhydrat>
@@ -9701,10 +9701,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</LAIYVBAR>
+	</bar>
 
 
-	<VHTVKBAR  SN="H1MUpJC">
+	<bar SN="H1MUpJC">
 		<fett>19.2</fett>
 		<energy>1580.04</energy>
 		<kolhydrat>2.87</kolhydrat>
@@ -9712,10 +9712,10 @@
 		<fiber>42.84</fiber>
 		<review>
 		</review>
-	</VHTVKBAR>
+	</bar>
 
 
-	<PYTORBAR  SN="UAEJgvR">
+	<bar SN="UAEJgvR">
 		<fett>39.65</fett>
 		<energy>2104.73</energy>
 		<kolhydrat>3.39</kolhydrat>
@@ -9743,10 +9743,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</PYTORBAR>
+	</bar>
 
 
-	<YVUCRBAR  SN="ZAYFyV8">
+	<bar SN="ZAYFyV8">
 		<fett>8.76</fett>
 		<energy>2791.33</energy>
 		<kolhydrat>7.83</kolhydrat>
@@ -9754,10 +9754,10 @@
 		<fiber>43.16</fiber>
 		<review>
 		</review>
-	</YVUCRBAR>
+	</bar>
 
 
-	<AGHEUBAR  SN="qMIMG2H">
+	<bar SN="qMIMG2H">
 		<fett>12.22</fett>
 		<energy>1102.78</energy>
 		<kolhydrat>16.16</kolhydrat>
@@ -9773,10 +9773,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</AGHEUBAR>
+	</bar>
 
 
-	<HQYEKBAR  SN="Nbh09MG">
+	<bar SN="Nbh09MG">
 		<fett>37.06</fett>
 		<energy>2238.77</energy>
 		<kolhydrat>44.91</kolhydrat>
@@ -9784,10 +9784,10 @@
 		<fiber>23.54</fiber>
 		<review>
 		</review>
-	</HQYEKBAR>
+	</bar>
 
 
-	<OIUKFBAR  SN="0EP1Qqz">
+	<bar SN="0EP1Qqz">
 		<fett>39.53</fett>
 		<energy>2144.96</energy>
 		<kolhydrat>40.37</kolhydrat>
@@ -9807,10 +9807,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</OIUKFBAR>
+	</bar>
 
 
-	<IICDVBAR  SN="3mkOYSP">
+	<bar SN="3mkOYSP">
 		<fett>27.7</fett>
 		<energy>2644.88</energy>
 		<kolhydrat>36.52</kolhydrat>
@@ -9834,10 +9834,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</IICDVBAR>
+	</bar>
 
 
-	<AREBKBAR  SN="DWBDBlx">
+	<bar SN="DWBDBlx">
 		<fett>37.98</fett>
 		<energy>2981.62</energy>
 		<kolhydrat>28.87</kolhydrat>
@@ -9853,10 +9853,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</AREBKBAR>
+	</bar>
 
 
-	<CKJXKBAR  SN="18W9v8x">
+	<bar SN="18W9v8x">
 		<fett>34.76</fett>
 		<energy>2354.26</energy>
 		<kolhydrat>35.94</kolhydrat>
@@ -9872,10 +9872,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</CKJXKBAR>
+	</bar>
 
 
-	<QHMGJBAR  SN="HgvB44M">
+	<bar SN="HgvB44M">
 		<fett>39.56</fett>
 		<energy>1909.18</energy>
 		<kolhydrat>1.51</kolhydrat>
@@ -9891,10 +9891,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</QHMGJBAR>
+	</bar>
 
 
-	<LEANGBAR  SN="zVdvF2O">
+	<bar SN="zVdvF2O">
 		<fett>22.23</fett>
 		<energy>1283.35</energy>
 		<kolhydrat>40.31</kolhydrat>
@@ -9922,10 +9922,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</LEANGBAR>
+	</bar>
 
 
-	<JSIHLBAR  SN="eSzVY2W">
+	<bar SN="eSzVY2W">
 		<fett>1.65</fett>
 		<energy>1671.88</energy>
 		<kolhydrat>3.61</kolhydrat>
@@ -9949,10 +9949,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</JSIHLBAR>
+	</bar>
 
 
-	<GILWIBAR  SN="vdnLYOI">
+	<bar SN="vdnLYOI">
 		<fett>44.36</fett>
 		<energy>1201.61</energy>
 		<kolhydrat>22.1</kolhydrat>
@@ -9980,10 +9980,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</GILWIBAR>
+	</bar>
 
 
-	<VGSCDBAR  SN="VLTiJ31">
+	<bar SN="VLTiJ31">
 		<fett>44.11</fett>
 		<energy>2049.13</energy>
 		<kolhydrat>13.69</kolhydrat>
@@ -9991,10 +9991,10 @@
 		<fiber>26.89</fiber>
 		<review>
 		</review>
-	</VGSCDBAR>
+	</bar>
 
 
-	<EAKCMBAR  SN="SwxW26r">
+	<bar SN="SwxW26r">
 		<fett>30.5</fett>
 		<energy>2334.95</energy>
 		<kolhydrat>30.21</kolhydrat>
@@ -10018,10 +10018,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</EAKCMBAR>
+	</bar>
 
 
-	<JIFKFBAR  SN="LbVPlnY">
+	<bar SN="LbVPlnY">
 		<fett>21.51</fett>
 		<energy>1623.16</energy>
 		<kolhydrat>16.69</kolhydrat>
@@ -10029,10 +10029,10 @@
 		<fiber>10.75</fiber>
 		<review>
 		</review>
-	</JIFKFBAR>
+	</bar>
 
 
-	<GOUGFBAR  SN="8k8mr85">
+	<bar SN="8k8mr85">
 		<fett>42.43</fett>
 		<energy>2795.57</energy>
 		<kolhydrat>12.87</kolhydrat>
@@ -10060,10 +10060,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</GOUGFBAR>
+	</bar>
 
 
-	<QIEOGBAR  SN="2xvXG28">
+	<bar SN="2xvXG28">
 		<fett>10.89</fett>
 		<energy>1653.58</energy>
 		<kolhydrat>18.79</kolhydrat>
@@ -10071,10 +10071,10 @@
 		<fiber>39.35</fiber>
 		<review>
 		</review>
-	</QIEOGBAR>
+	</bar>
 
 
-	<DEFOYBAR  SN="NhVcp5p">
+	<bar SN="NhVcp5p">
 		<fett>29.46</fett>
 		<energy>1773.3</energy>
 		<kolhydrat>20.02</kolhydrat>
@@ -10090,10 +10090,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</DEFOYBAR>
+	</bar>
 
 
-	<THCMSBAR  SN="Xpil1nf">
+	<bar SN="Xpil1nf">
 		<fett>15.89</fett>
 		<energy>1293.23</energy>
 		<kolhydrat>29.74</kolhydrat>
@@ -10105,10 +10105,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</THCMSBAR>
+	</bar>
 
 
-	<ZALWWBAR  SN="r5vPTVm">
+	<bar SN="r5vPTVm">
 		<fett>16.7</fett>
 		<energy>1247.14</energy>
 		<kolhydrat>17.41</kolhydrat>
@@ -10132,10 +10132,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</ZALWWBAR>
+	</bar>
 
 
-	<FAQZRBAR  SN="ISvSci7">
+	<bar SN="ISvSci7">
 		<fett>38.05</fett>
 		<energy>1289.65</energy>
 		<kolhydrat>7.02</kolhydrat>
@@ -10151,10 +10151,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</FAQZRBAR>
+	</bar>
 
 
-	<FRXRCBAR  SN="YK4yWE4">
+	<bar SN="YK4yWE4">
 		<fett>39.73</fett>
 		<energy>1144.35</energy>
 		<kolhydrat>9.84</kolhydrat>
@@ -10162,10 +10162,10 @@
 		<fiber>27.63</fiber>
 		<review>
 		</review>
-	</FRXRCBAR>
+	</bar>
 
 
-	<QLPHCBAR  SN="1zlYn4E">
+	<bar SN="1zlYn4E">
 		<fett>25.95</fett>
 		<energy>1426.44</energy>
 		<kolhydrat>39.56</kolhydrat>
@@ -10193,10 +10193,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</QLPHCBAR>
+	</bar>
 
 
-	<KLTOZBAR  SN="Ogtim6c">
+	<bar SN="Ogtim6c">
 		<fett>15.7</fett>
 		<energy>2171.14</energy>
 		<kolhydrat>30.08</kolhydrat>
@@ -10204,10 +10204,10 @@
 		<fiber>5.34</fiber>
 		<review>
 		</review>
-	</KLTOZBAR>
+	</bar>
 
 
-	<SIIDQBAR  SN="GAKHFRr">
+	<bar SN="GAKHFRr">
 		<fett>42.08</fett>
 		<energy>1364.45</energy>
 		<kolhydrat>21.02</kolhydrat>
@@ -10223,10 +10223,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</SIIDQBAR>
+	</bar>
 
 
-	<ITLLPBAR  SN="789Ek7R">
+	<bar SN="789Ek7R">
 		<fett>8.34</fett>
 		<energy>2363.19</energy>
 		<kolhydrat>7.41</kolhydrat>
@@ -10246,10 +10246,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</ITLLPBAR>
+	</bar>
 
 
-	<IOESZBAR  SN="pUDXIkY">
+	<bar SN="pUDXIkY">
 		<fett>44.2</fett>
 		<energy>2012.56</energy>
 		<kolhydrat>35.31</kolhydrat>
@@ -10265,10 +10265,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</IOESZBAR>
+	</bar>
 
 
-	<MKPBLBAR  SN="Tehfg8a">
+	<bar SN="Tehfg8a">
 		<fett>4.86</fett>
 		<energy>1862.65</energy>
 		<kolhydrat>22.92</kolhydrat>
@@ -10288,10 +10288,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</MKPBLBAR>
+	</bar>
 
 
-	<RJXBABAR  SN="paCtNhc">
+	<bar SN="paCtNhc">
 		<fett>11.85</fett>
 		<energy>2016.08</energy>
 		<kolhydrat>41.92</kolhydrat>
@@ -10307,10 +10307,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</RJXBABAR>
+	</bar>
 
 
-	<FBZFLBAR  SN="awxmrHR">
+	<bar SN="awxmrHR">
 		<fett>39.45</fett>
 		<energy>1209.58</energy>
 		<kolhydrat>32.93</kolhydrat>
@@ -10326,10 +10326,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</FBZFLBAR>
+	</bar>
 
 
-	<KDHMOBAR  SN="ANoUxTV">
+	<bar SN="ANoUxTV">
 		<fett>34.82</fett>
 		<energy>1683.67</energy>
 		<kolhydrat>9.59</kolhydrat>
@@ -10337,10 +10337,10 @@
 		<fiber>39.51</fiber>
 		<review>
 		</review>
-	</KDHMOBAR>
+	</bar>
 
 
-	<IDCQFBAR  SN="pUjuuW6">
+	<bar SN="pUjuuW6">
 		<fett>41.55</fett>
 		<energy>2296.7</energy>
 		<kolhydrat>23.7</kolhydrat>
@@ -10356,10 +10356,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</IDCQFBAR>
+	</bar>
 
 
-	<DBXCDBAR  SN="aWRCkDH">
+	<bar SN="aWRCkDH">
 		<fett>8.0</fett>
 		<energy>1586.62</energy>
 		<kolhydrat>41.99</kolhydrat>
@@ -10371,10 +10371,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</DBXCDBAR>
+	</bar>
 
 
-	<EUCBVBAR  SN="5ElrrzM">
+	<bar SN="5ElrrzM">
 		<fett>13.07</fett>
 		<energy>2575.94</energy>
 		<kolhydrat>28.47</kolhydrat>
@@ -10394,10 +10394,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</EUCBVBAR>
+	</bar>
 
 
-	<RRBWKBAR  SN="KovjHKi">
+	<bar SN="KovjHKi">
 		<fett>28.1</fett>
 		<energy>1186.04</energy>
 		<kolhydrat>28.45</kolhydrat>
@@ -10421,10 +10421,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</RRBWKBAR>
+	</bar>
 
 
-	<ACODTBAR  SN="aZgpTob">
+	<bar SN="aZgpTob">
 		<fett>22.33</fett>
 		<energy>2225.48</energy>
 		<kolhydrat>35.89</kolhydrat>
@@ -10452,10 +10452,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</ACODTBAR>
+	</bar>
 
 
-	<EQIBWBAR  SN="MTIJRNp">
+	<bar SN="MTIJRNp">
 		<fett>29.61</fett>
 		<energy>2392.57</energy>
 		<kolhydrat>10.19</kolhydrat>
@@ -10471,10 +10471,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</EQIBWBAR>
+	</bar>
 
 
-	<YDUCZBAR  SN="L3iarbd">
+	<bar SN="L3iarbd">
 		<fett>35.76</fett>
 		<energy>1625.49</energy>
 		<kolhydrat>35.26</kolhydrat>
@@ -10502,10 +10502,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</YDUCZBAR>
+	</bar>
 
 
-	<TIRBMBAR  SN="CaGyh3Y">
+	<bar SN="CaGyh3Y">
 		<fett>15.8</fett>
 		<energy>1968.82</energy>
 		<kolhydrat>43.17</kolhydrat>
@@ -10513,10 +10513,10 @@
 		<fiber>8.57</fiber>
 		<review>
 		</review>
-	</TIRBMBAR>
+	</bar>
 
 
-	<QEEVLBAR  SN="QXgYPy1">
+	<bar SN="QXgYPy1">
 		<fett>23.31</fett>
 		<energy>2556.95</energy>
 		<kolhydrat>10.69</kolhydrat>
@@ -10532,10 +10532,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</QEEVLBAR>
+	</bar>
 
 
-	<HEATSBAR  SN="UgB1QNa">
+	<bar SN="UgB1QNa">
 		<fett>26.27</fett>
 		<energy>2634.3</energy>
 		<kolhydrat>8.8</kolhydrat>
@@ -10543,10 +10543,10 @@
 		<fiber>38.1</fiber>
 		<review>
 		</review>
-	</HEATSBAR>
+	</bar>
 
 
-	<ICFENBAR  SN="WokaIzv">
+	<bar SN="WokaIzv">
 		<fett>31.15</fett>
 		<energy>1784.28</energy>
 		<kolhydrat>5.16</kolhydrat>
@@ -10562,10 +10562,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</ICFENBAR>
+	</bar>
 
 
-	<DQRRXBAR  SN="xXzKQIJ">
+	<bar SN="xXzKQIJ">
 		<fett>7.22</fett>
 		<energy>2357.07</energy>
 		<kolhydrat>4.52</kolhydrat>
@@ -10577,10 +10577,10 @@
 				<score>4</score>
 			</reviewer>
 		</review>
-	</DQRRXBAR>
+	</bar>
 
 
-	<QVMMMBAR  SN="QVlRCys">
+	<bar SN="QVlRCys">
 		<fett>33.27</fett>
 		<energy>2673.52</energy>
 		<kolhydrat>10.96</kolhydrat>
@@ -10592,10 +10592,10 @@
 				<score>2</score>
 			</reviewer>
 		</review>
-	</QVMMMBAR>
+	</bar>
 
 
-	<KJBFUBAR  SN="dQAIumh">
+	<bar SN="dQAIumh">
 		<fett>9.47</fett>
 		<energy>2984.23</energy>
 		<kolhydrat>27.67</kolhydrat>
@@ -10619,10 +10619,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</KJBFUBAR>
+	</bar>
 
 
-	<TEOOGBAR  SN="S7Zh2js">
+	<bar SN="S7Zh2js">
 		<fett>26.79</fett>
 		<energy>1822.7</energy>
 		<kolhydrat>32.42</kolhydrat>
@@ -10638,10 +10638,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</TEOOGBAR>
+	</bar>
 
 
-	<DHSZABAR  SN="ujeDRYR">
+	<bar SN="ujeDRYR">
 		<fett>12.29</fett>
 		<energy>2031.02</energy>
 		<kolhydrat>29.84</kolhydrat>
@@ -10669,10 +10669,10 @@
 				<score>1</score>
 			</reviewer>
 		</review>
-	</DHSZABAR>
+	</bar>
 
 
-	<LXBUXBAR  SN="PHUUImW">
+	<bar SN="PHUUImW">
 		<fett>24.68</fett>
 		<energy>2164.74</energy>
 		<kolhydrat>28.44</kolhydrat>
@@ -10692,10 +10692,10 @@
 				<score>5</score>
 			</reviewer>
 		</review>
-	</LXBUXBAR>
+	</bar>
 
 
-	<VQUWNBAR  SN="0uc15e7">
+	<bar SN="0uc15e7">
 		<fett>11.03</fett>
 		<energy>1891.73</energy>
 		<kolhydrat>43.78</kolhydrat>
@@ -10719,10 +10719,10 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</VQUWNBAR>
+	</bar>
 
 
-	<TMSQIBAR  SN="RDKnT2d">
+	<bar SN="RDKnT2d">
 		<fett>17.78</fett>
 		<energy>2134.02</energy>
 		<kolhydrat>20.09</kolhydrat>
@@ -10738,10 +10738,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</TMSQIBAR>
+	</bar>
 
 
-	<SVKWTBAR  SN="F0UU7rA">
+	<bar SN="F0UU7rA">
 		<fett>11.38</fett>
 		<energy>2572.64</energy>
 		<kolhydrat>24.57</kolhydrat>
@@ -10761,10 +10761,10 @@
 				<score>0</score>
 			</reviewer>
 		</review>
-	</SVKWTBAR>
+	</bar>
 
 
-	<YEXCDBAR  SN="WVvItDv">
+	<bar SN="WVvItDv">
 		<fett>44.66</fett>
 		<energy>2781.5</energy>
 		<kolhydrat>24.69</kolhydrat>
@@ -10788,7 +10788,5 @@
 				<score>3</score>
 			</reviewer>
 		</review>
-	</YEXCDBAR>
-
-
+	</bar>
 </products>
