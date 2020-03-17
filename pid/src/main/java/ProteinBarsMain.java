@@ -17,6 +17,7 @@ public class ProteinBarsMain {
             System.out.println("(2) Sort bars based on highest protein content");
             System.out.println("(3) Sort bars based on highest fat content");
             System.out.println("(4) Filter bars which has less than the user input value for fiber and sort them from highest to lowest");
+            System.out.println("(5) Find all protein bars with more than given value of protein - X and reviewed by a given user - Y");
 
             // get the option as an int
             int option=0;
@@ -46,8 +47,14 @@ public class ProteinBarsMain {
                 case 4:
                     System.out.println("Please enter Fiber value:");
                     double fiberValue = scanner.nextDouble();
-                    System.out.println(fiberValue);
-                    // Write a function to get Fiber
+                    proteinBarsReader.getBarsWithFiber(barsInformation, fiberValue);
+                    break;
+                case 5:
+                    System.out.println("Please enter protein value:");
+                    double proteinValue = scanner.nextDouble();
+                    System.out.println("Please enter reviewer name:");
+                    String reviewer = scanner.next();
+                    proteinBarsReader.getBarsWithProteinByReviewer(barsInformation, proteinValue, reviewer);
                     break;
             }
         } catch (Exception e){

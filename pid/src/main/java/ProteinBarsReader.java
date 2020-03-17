@@ -75,7 +75,27 @@ public class ProteinBarsReader {
                 System.out.println("Bar Name: "+barInformation.getSerialNumber()+" Fat:"+barInformation.getFatt());
             }
         }
-
-
     }
+    public void getBarsWithFiber(List<BarDataModel>  barsInformation, double fiberValue){
+        Collections.sort(barsInformation, new FiberComparator());
+        for(BarDataModel barInformation: barsInformation){
+            if(barInformation.getFiber() > fiberValue)
+                continue;
+            System.out.println("Bar Name: "+barInformation.getSerialNumber()+" Fiber:"+barInformation.getFiber());
+        }
+    }
+    public void getBarsWithProteinByReviewer(List<BarDataModel>  barsInformation, double protein, String reviewer){
+        Collections.sort(barsInformation, new ProteinComparator());
+        for(BarDataModel barInformation: barsInformation){
+            if(barInformation.getProtein() > protein){
+                List<ReviewDataModel> reviews = barInformation.getReviews();
+                for(ReviewDataModel review : reviews){
+                    if(review.getPersonID().equals(reviewer))
+                        System.out.println("Bar Name: "+barInformation.getSerialNumber()+" Protein:"+barInformation.getProtein()+" Reviewer:  "+reviewer);
+                }
+
+            }
+        }
+    }
+
 }
